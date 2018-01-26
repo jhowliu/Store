@@ -10,11 +10,11 @@ from app.lib.schema import *
 from app.lib.utils import split_address
 from app.lib.log import Logger
 
-class CenturyParser(StoreParser):
+class SinYiParser(StoreParser):
 
     def init(self):
-        self.casefrom = 'Century21'
-        self.logger = Logger('Century21.log')
+        self.casefrom = 'SinYi'
+        self.logger = Logger('SinYi.log')
 
     def set_content(self, url, html):
         self.html = html
@@ -24,14 +24,10 @@ class CenturyParser(StoreParser):
     def start_parse(self):
         self.logger.info('Start parse %s.' % self.url)
         store_infos = self.fill_out_webstored()
-        emp_list = []
-        tags = self.soup.select('.team-mem')
 
-        self.logger.info('There has %d employees in %s.' % (len(tags), self.get_store_name()))
-        for ix, tag in enumerate(tags):
-            emp_list.append(self.fill_out_webagent(tag, ix+1))
+        """ ADD EMPLOYEE HERE """
 
-        return store_infos, emp_list
+        return store_infos
 
     # employee primary key
     def get_employee_hash_id(self, soup):
@@ -47,25 +43,30 @@ class CenturyParser(StoreParser):
         return self.url
 
     def get_store_id(self):
-        store_id_regex = re.compile('http:\/\/([0-9A-Za-z]+)\.century21\.com\.tw')
+        store_id_regex = re.compile('http:\/\/branch.sinyi.com.tw\/info.php\/([0-9a-zA-Z]+)')
         m = store_id_regex.search(self.url)
         store_id = m.group(1) if m else ''
         return store_id
 
     def get_store_name(self):
-        tags = self.soup.select('h3')
+        tags = self.soup.select('#branch-info h1')
         store_name = tags[0].text if len(tags) else ''
         return store_name
 
     def get_address(self):
-        tags = self.soup.select('.store-add')
-        addr = tags[0].text if len(tags) else ''
+        addr_regex = re.compile('([\d ]+)(.*)')
+        tags = self.soup.select('.contact p')
+        addr = tags[1].text if len(tags) else ''
+        addr = addr.replace(u'門市地址：', '')
+        m = addr_regex.search(addr)
+        addr = m.group(2) if len(m.groups())>1 else  ''
+
         return addr
 
     def get_tel_number(self):
-        tags = self.soup.select('.store-tel')
+        tags = self.soup.select('.contact p.tel')
         tel = tags[0].text if len(tags) else ''
-        return tel
+        return tel.replace(u'聯絡電話：', '')
 
     def get_mail(self):
         tags = self.soup.select('.small-12.xlarge-11.columns span a')
@@ -144,7 +145,6 @@ class CenturyParser(StoreParser):
     	WEB_STORED['City'] = city
 
         return WEB_STORED.copy()
-
 
     def fill_out_webagent(self, soup, ix):
         # WEB_AGENT

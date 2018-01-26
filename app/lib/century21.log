@@ -712,3 +712,1597 @@
 2018-01-25 19:09:57,620 - INFO - There has 3 employees in 東門文化加盟店.
 2018-01-25 19:09:57,973 - INFO - Start parse http://K106.century21.com.tw.
 2018-01-25 19:09:57,994 - INFO - There has 12 employees in 太平樹孝加盟店.
+2018-01-26 10:54:18,291 - INFO - Start parse http://N016.century21.com.tw.
+2018-01-26 10:54:18,316 - INFO - There has 7 employees in 富農加盟店.
+2018-01-26 10:54:18,718 - INFO - Start parse http://N041.century21.com.tw.
+2018-01-26 10:54:18,739 - INFO - There has 17 employees in 鳳頂鳳甲加盟店.
+2018-01-26 10:54:19,683 - INFO - Start parse http://J114.century21.com.tw.
+2018-01-26 10:54:19,695 - INFO - There has 8 employees in 林口公園加盟店.
+2018-01-26 10:54:19,984 - INFO - Start parse http://M016.century21.com.tw.
+2018-01-26 10:54:19,996 - INFO - There has 13 employees in 台南家樂加盟店.
+2018-01-26 10:54:20,487 - INFO - Start parse http://I074.century21.com.tw.
+2018-01-26 10:54:20,499 - INFO - There has 10 employees in 桃園寶慶加盟店.
+2018-01-26 10:54:20,973 - INFO - Start parse http://M021.century21.com.tw.
+2018-01-26 10:54:20,982 - INFO - There has 4 employees in 虎尾全信福加盟店.
+2018-01-26 10:54:21,475 - INFO - Start parse http://H138.century21.com.tw.
+2018-01-26 10:54:21,495 - INFO - There has 20 employees in 內湖捷運碧湖加盟店.
+2018-01-26 10:54:22,220 - INFO - Start parse http://I054.century21.com.tw.
+2018-01-26 10:54:22,230 - INFO - There has 7 employees in 新竹三民加盟店.
+2018-01-26 10:54:22,519 - INFO - Start parse http://K072.century21.com.tw.
+2018-01-26 10:54:22,546 - INFO - There has 14 employees in 台中南區復興加盟店.
+2018-01-26 10:54:23,085 - INFO - Start parse http://I045.century21.com.tw.
+2018-01-26 10:54:23,094 - INFO - There has 7 employees in 中壢環北加盟店.
+2018-01-26 10:54:23,458 - INFO - Start parse http://I031.century21.com.tw.
+2018-01-26 10:54:23,474 - INFO - There has 20 employees in 汎太經國加盟店.
+2018-01-26 10:54:24,282 - INFO - Start parse http://H154.century21.com.tw.
+2018-01-26 10:54:24,292 - INFO - There has 11 employees in 大直美麗華加盟店.
+2018-01-26 10:54:24,690 - INFO - Start parse http://N073.century21.com.tw.
+2018-01-26 10:54:24,710 - INFO - There has 20 employees in 花蓮大聯自強加盟店.
+2018-01-26 10:54:25,480 - INFO - Start parse http://J262.century21.com.tw.
+2018-01-26 10:54:25,494 - INFO - There has 14 employees in 基隆中山加盟店.
+2018-01-26 10:54:26,288 - INFO - Start parse http://N024.century21.com.tw.
+2018-01-26 10:54:26,299 - INFO - There has 8 employees in 高雄建國加盟店.
+2018-01-26 10:54:26,806 - INFO - Start parse http://I028.century21.com.tw.
+2018-01-26 10:54:26,817 - INFO - There has 11 employees in 桃園南平加盟店.
+2018-01-26 10:54:27,302 - INFO - Start parse http://J278.century21.com.tw.
+2018-01-26 10:54:27,308 - INFO - There has 0 employees in 新店安祥加盟店.
+2018-01-26 10:54:27,501 - INFO - Start parse http://K093.century21.com.tw.
+2018-01-26 10:54:27,512 - INFO - There has 10 employees in 八期五權加盟店.
+2018-01-26 10:54:28,323 - INFO - Start parse http://M019.century21.com.tw.
+2018-01-26 10:54:28,346 - INFO - There has 15 employees in 永康塩行加盟店.
+2018-01-26 10:54:29,022 - INFO - Start parse http://K069.century21.com.tw.
+2018-01-26 10:54:29,080 - INFO - There has 20 employees in 台中七期河南加盟店.
+2018-01-26 10:54:31,032 - INFO - Start parse http://N019.century21.com.tw.
+2018-01-26 10:54:31,068 - INFO - There has 20 employees in 五甲瑞隆加盟店.
+2018-01-26 10:54:32,552 - INFO - Start parse http://J250.century21.com.tw.
+2018-01-26 10:54:32,566 - INFO - There has 15 employees in 三峽北大大義加盟店.
+2018-01-26 10:54:33,365 - INFO - Start parse http://I028.century21.com.tw.
+2018-01-26 10:54:33,377 - INFO - There has 11 employees in 桃園南平加盟店.
+2018-01-26 10:54:33,561 - INFO - Start parse http://H044.century21.com.tw.
+2018-01-26 10:54:33,575 - INFO - There has 20 employees in 台北龍江加盟店.
+2018-01-26 10:54:34,694 - INFO - Start parse http://J147.century21.com.tw.
+2018-01-26 10:54:34,717 - INFO - There has 20 employees in 捷運永安加盟店.
+2018-01-26 10:54:35,788 - INFO - Start parse http://J281.century21.com.tw.
+2018-01-26 10:54:35,798 - INFO - There has 9 employees in 林口仁愛加盟店.
+2018-01-26 10:54:36,183 - INFO - Start parse http://N060.century21.com.tw.
+2018-01-26 10:54:36,199 - INFO - There has 17 employees in 花蓮中山加盟店.
+2018-01-26 10:54:37,165 - INFO - Start parse http://J314.century21.com.tw.
+2018-01-26 10:54:37,175 - INFO - There has 11 employees in 蘆洲展宸光明加盟店.
+2018-01-26 10:54:37,648 - INFO - Start parse http://I031.century21.com.tw.
+2018-01-26 10:54:37,663 - INFO - There has 20 employees in 汎太經國加盟店.
+2018-01-26 10:54:38,054 - INFO - Start parse http://H079.century21.com.tw.
+2018-01-26 10:54:38,071 - INFO - There has 20 employees in 信義101加盟店.
+2018-01-26 10:54:38,580 - INFO - Start parse http://I079.century21.com.tw.
+2018-01-26 10:54:38,590 - INFO - There has 3 employees in 內壢文化加盟店.
+2018-01-26 10:54:38,749 - INFO - Start parse http://M030.century21.com.tw.
+2018-01-26 10:54:38,766 - INFO - There has 10 employees in 菁英永康加盟店.
+2018-01-26 10:54:39,733 - INFO - Start parse http://J188.century21.com.tw.
+2018-01-26 10:54:39,746 - INFO - There has 8 employees in 新莊副都心中原加盟店.
+2018-01-26 10:54:40,110 - INFO - Start parse http://I078.century21.com.tw.
+2018-01-26 10:54:40,125 - INFO - There has 20 employees in 湖口工業區加盟店.
+2018-01-26 10:54:41,008 - INFO - Start parse http://I032.century21.com.tw.
+2018-01-26 10:54:41,019 - INFO - There has 9 employees in 南崁忠孝加盟店.
+2018-01-26 10:54:41,416 - INFO - Start parse http://N052.century21.com.tw.
+2018-01-26 10:54:41,429 - INFO - There has 13 employees in 岡山捷運加盟店.
+2018-01-26 10:54:42,444 - INFO - Start parse http://H179.century21.com.tw.
+2018-01-26 10:54:42,482 - INFO - There has 16 employees in 南京光復加盟店.
+2018-01-26 10:54:43,114 - INFO - Start parse http://H121.century21.com.tw.
+2018-01-26 10:54:43,123 - INFO - There has 6 employees in 敦北八德加盟店.
+2018-01-26 10:54:43,416 - INFO - Start parse http://K014.century21.com.tw.
+2018-01-26 10:54:43,429 - INFO - There has 14 employees in 台中十期加盟店.
+2018-01-26 10:54:43,797 - INFO - Start parse http://M009.century21.com.tw.
+2018-01-26 10:54:43,807 - INFO - There has 11 employees in 台南大學加盟店.
+2018-01-26 10:54:44,240 - INFO - Start parse http://N041.century21.com.tw.
+2018-01-26 10:54:44,254 - INFO - There has 17 employees in 鳳頂鳳甲加盟店.
+2018-01-26 10:54:44,540 - INFO - Start parse http://J133.century21.com.tw.
+2018-01-26 10:54:44,551 - INFO - There has 11 employees in 淡水加盟店.
+2018-01-26 10:54:44,982 - INFO - Start parse http://M021.century21.com.tw.
+2018-01-26 10:54:44,993 - INFO - There has 4 employees in 虎尾全信福加盟店.
+2018-01-26 10:54:45,060 - INFO - Start parse http://I040.century21.com.tw.
+2018-01-26 10:54:45,071 - INFO - There has 6 employees in 竹北台大加盟店.
+2018-01-26 10:54:45,364 - INFO - Start parse http://K074.century21.com.tw.
+2018-01-26 10:54:45,376 - INFO - There has 9 employees in 南投大同加盟店.
+2018-01-26 10:54:45,724 - INFO - Start parse http://K093.century21.com.tw.
+2018-01-26 10:54:45,738 - INFO - There has 10 employees in 八期五權加盟店.
+2018-01-26 10:54:45,938 - INFO - Start parse http://K089.century21.com.tw.
+2018-01-26 10:54:45,954 - INFO - There has 20 employees in 草屯大同加盟店.
+2018-01-26 10:54:46,577 - INFO - Start parse http://N024.century21.com.tw.
+2018-01-26 10:54:46,587 - INFO - There has 8 employees in 高雄建國加盟店.
+2018-01-26 10:54:46,732 - INFO - Start parse http://H166.century21.com.tw.
+2018-01-26 10:54:46,743 - INFO - There has 11 employees in 南港重劃區加盟店.
+2018-01-26 10:54:47,246 - INFO - Start parse http://J250.century21.com.tw.
+2018-01-26 10:54:47,260 - INFO - There has 15 employees in 三峽北大大義加盟店.
+2018-01-26 10:54:47,569 - INFO - Start parse http://J265.century21.com.tw.
+2018-01-26 10:54:47,581 - INFO - There has 15 employees in 土城金城加盟店.
+2018-01-26 10:54:48,255 - INFO - Start parse http://J236.century21.com.tw.
+2018-01-26 10:54:48,263 - INFO - There has 8 employees in 仁愛公園加盟店.
+2018-01-26 10:54:48,702 - INFO - Start parse http://J114.century21.com.tw.
+2018-01-26 10:54:48,711 - INFO - There has 8 employees in 林口公園加盟店.
+2018-01-26 10:54:48,873 - INFO - Start parse http://I045.century21.com.tw.
+2018-01-26 10:54:48,884 - INFO - There has 7 employees in 中壢環北加盟店.
+2018-01-26 10:54:49,056 - INFO - Start parse http://J262.century21.com.tw.
+2018-01-26 10:54:49,068 - INFO - There has 14 employees in 基隆中山加盟店.
+2018-01-26 10:54:49,339 - INFO - Start parse http://H138.century21.com.tw.
+2018-01-26 10:54:49,354 - INFO - There has 20 employees in 內湖捷運碧湖加盟店.
+2018-01-26 10:54:50,148 - INFO - Start parse http://J297.century21.com.tw.
+2018-01-26 10:54:50,161 - INFO - There has 20 employees in 基隆信義加盟店.
+2018-01-26 10:54:51,162 - INFO - Start parse http://J296.century21.com.tw.
+2018-01-26 10:54:51,174 - INFO - There has 10 employees in 淡水運動中心加盟店.
+2018-01-26 10:54:51,723 - INFO - Start parse http://M032.century21.com.tw.
+2018-01-26 10:54:51,733 - INFO - There has 11 employees in 虎尾文科加盟店.
+2018-01-26 10:54:52,336 - INFO - Start parse http://N016.century21.com.tw.
+2018-01-26 10:54:52,346 - INFO - There has 7 employees in 富農加盟店.
+2018-01-26 10:54:52,478 - INFO - Start parse http://I078.century21.com.tw.
+2018-01-26 10:54:52,492 - INFO - There has 20 employees in 湖口工業區加盟店.
+2018-01-26 10:54:52,958 - INFO - Start parse http://J281.century21.com.tw.
+2018-01-26 10:54:52,967 - INFO - There has 9 employees in 林口仁愛加盟店.
+2018-01-26 10:54:53,181 - INFO - Start parse http://I079.century21.com.tw.
+2018-01-26 10:54:53,189 - INFO - There has 3 employees in 內壢文化加盟店.
+2018-01-26 10:54:53,407 - INFO - Start parse http://N060.century21.com.tw.
+2018-01-26 10:54:53,419 - INFO - There has 17 employees in 花蓮中山加盟店.
+2018-01-26 10:54:53,857 - INFO - Start parse http://N072.century21.com.tw.
+2018-01-26 10:54:53,864 - INFO - There has 6 employees in 楠梓台糖加盟店.
+2018-01-26 10:54:54,179 - INFO - Start parse http://J188.century21.com.tw.
+2018-01-26 10:54:54,189 - INFO - There has 8 employees in 新莊副都心中原加盟店.
+2018-01-26 10:54:54,320 - INFO - Start parse http://H154.century21.com.tw.
+2018-01-26 10:54:54,330 - INFO - There has 11 employees in 大直美麗華加盟店.
+2018-01-26 10:54:54,495 - INFO - Start parse http://H187.century21.com.tw.
+2018-01-26 10:54:54,508 - INFO - There has 20 employees in 民生圓環加盟店.
+2018-01-26 10:54:55,509 - INFO - Start parse http://K089.century21.com.tw.
+2018-01-26 10:54:55,524 - INFO - There has 20 employees in 草屯大同加盟店.
+2018-01-26 10:54:55,895 - INFO - Start parse http://K014.century21.com.tw.
+2018-01-26 10:54:55,906 - INFO - There has 14 employees in 台中十期加盟店.
+2018-01-26 10:54:56,093 - INFO - Start parse http://N016.century21.com.tw.
+2018-01-26 10:54:56,101 - INFO - There has 7 employees in 富農加盟店.
+2018-01-26 10:54:56,255 - INFO - Start parse http://J279.century21.com.tw.
+2018-01-26 10:54:56,265 - INFO - There has 9 employees in 新莊親水公園加盟店.
+2018-01-26 10:54:56,668 - INFO - Start parse http://K005.century21.com.tw.
+2018-01-26 10:54:56,677 - INFO - There has 8 employees in 台中八期加盟店.
+2018-01-26 10:54:57,007 - INFO - Start parse http://I039.century21.com.tw.
+2018-01-26 10:54:57,016 - INFO - There has 4 employees in 竹北高鐵加盟店.
+2018-01-26 10:54:57,457 - INFO - Start parse http://K077.century21.com.tw.
+2018-01-26 10:54:57,467 - INFO - There has 10 employees in 南屯黎明加盟店.
+2018-01-26 10:54:57,925 - INFO - Start parse http://N063.century21.com.tw.
+2018-01-26 10:54:57,936 - INFO - There has 13 employees in 花蓮慈濟加盟店.
+2018-01-26 10:54:58,724 - INFO - Start parse http://N084.century21.com.tw.
+2018-01-26 10:54:58,734 - INFO - There has 10 employees in 岡山站前加盟店.
+2018-01-26 10:54:59,207 - INFO - Start parse http://H138.century21.com.tw.
+2018-01-26 10:54:59,221 - INFO - There has 20 employees in 內湖捷運碧湖加盟店.
+2018-01-26 10:54:59,554 - INFO - Start parse http://H219.century21.com.tw.
+2018-01-26 10:54:59,563 - INFO - There has 4 employees in 信義計劃松勇加盟店.
+2018-01-26 10:54:59,758 - INFO - Start parse http://I054.century21.com.tw.
+2018-01-26 10:54:59,767 - INFO - There has 7 employees in 新竹三民加盟店.
+2018-01-26 10:54:59,938 - INFO - Start parse http://N052.century21.com.tw.
+2018-01-26 10:54:59,947 - INFO - There has 13 employees in 岡山捷運加盟店.
+2018-01-26 10:55:00,182 - INFO - Start parse http://N016.century21.com.tw.
+2018-01-26 10:55:00,193 - INFO - There has 7 employees in 富農加盟店.
+2018-01-26 10:55:00,368 - INFO - Start parse http://I078.century21.com.tw.
+2018-01-26 10:55:00,382 - INFO - There has 20 employees in 湖口工業區加盟店.
+2018-01-26 10:55:00,793 - INFO - Start parse http://I072.century21.com.tw.
+2018-01-26 10:55:00,809 - INFO - There has 18 employees in 汎太大有加盟店.
+2018-01-26 10:55:01,577 - INFO - Start parse http://I012.century21.com.tw.
+2018-01-26 10:55:01,588 - INFO - There has 10 employees in 中壢環中加盟店.
+2018-01-26 10:55:02,009 - INFO - Start parse http://J241.century21.com.tw.
+2018-01-26 10:55:02,021 - INFO - There has 14 employees in 土城捷運領袖加盟店.
+2018-01-26 10:55:02,574 - INFO - Start parse http://H079.century21.com.tw.
+2018-01-26 10:55:02,588 - INFO - There has 20 employees in 信義101加盟店.
+2018-01-26 10:55:02,884 - INFO - Start parse http://K074.century21.com.tw.
+2018-01-26 10:55:02,894 - INFO - There has 9 employees in 南投大同加盟店.
+2018-01-26 10:55:03,092 - INFO - Start parse http://H224.century21.com.tw.
+2018-01-26 10:55:03,100 - INFO - There has 6 employees in 金湖市港加盟店.
+2018-01-26 10:55:03,324 - INFO - Start parse http://J155.century21.com.tw.
+2018-01-26 10:55:03,341 - INFO - There has 6 employees in 五股成泰加盟店.
+2018-01-26 10:55:03,591 - INFO - Start parse http://H208.century21.com.tw.
+2018-01-26 10:55:03,601 - INFO - There has 8 employees in 金門金城加盟店.
+2018-01-26 10:55:03,997 - INFO - Start parse http://I073.century21.com.tw.
+2018-01-26 10:55:04,007 - INFO - There has 9 employees in 大竹上興加盟店.
+2018-01-26 10:55:04,350 - INFO - Start parse http://I038.century21.com.tw.
+2018-01-26 10:55:04,364 - INFO - There has 18 employees in 中壢信義加盟店.
+2018-01-26 10:55:05,186 - INFO - Start parse http://K075.century21.com.tw.
+2018-01-26 10:55:05,198 - INFO - There has 8 employees in 北屯太原加盟店.
+2018-01-26 10:55:05,658 - INFO - Start parse http://H138.century21.com.tw.
+2018-01-26 10:55:05,672 - INFO - There has 20 employees in 內湖捷運碧湖加盟店.
+2018-01-26 10:55:05,955 - INFO - Start parse http://K014.century21.com.tw.
+2018-01-26 10:55:05,969 - INFO - There has 14 employees in 台中十期加盟店.
+2018-01-26 10:55:06,161 - INFO - Start parse http://M019.century21.com.tw.
+2018-01-26 10:55:06,174 - INFO - There has 15 employees in 永康塩行加盟店.
+2018-01-26 10:55:06,399 - INFO - Start parse http://K096.century21.com.tw.
+2018-01-26 10:55:06,409 - INFO - There has 6 employees in 彰化和美彰美加盟店.
+2018-01-26 10:55:06,681 - INFO - Start parse http://J250.century21.com.tw.
+2018-01-26 10:55:06,692 - INFO - There has 15 employees in 三峽北大大義加盟店.
+2018-01-26 10:55:06,930 - INFO - Start parse http://H244.century21.com.tw.
+2018-01-26 10:55:06,958 - INFO - There has 20 employees in 天母克強加盟店.
+2018-01-26 10:55:07,790 - INFO - Start parse http://N083.century21.com.tw.
+2018-01-26 10:55:07,801 - INFO - There has 10 employees in 屏東文化中心加盟店.
+2018-01-26 10:55:08,133 - INFO - Start parse http://J318.century21.com.tw.
+2018-01-26 10:55:08,144 - INFO - There has 10 employees in 宜蘭文化加盟店.
+2018-01-26 10:55:08,450 - INFO - Start parse http://K038.century21.com.tw.
+2018-01-26 10:55:08,460 - INFO - There has 6 employees in 鹿港中正加盟店.
+2018-01-26 10:55:08,725 - INFO - Start parse http://I107.century21.com.tw.
+2018-01-26 10:55:08,739 - INFO - There has 20 employees in 青埔棒球場加盟店.
+2018-01-26 10:55:09,514 - INFO - Start parse http://N070.century21.com.tw.
+2018-01-26 10:55:09,528 - INFO - There has 18 employees in 花蓮商校加盟店.
+2018-01-26 10:55:10,242 - INFO - Start parse http://J312.century21.com.tw.
+2018-01-26 10:55:10,255 - INFO - There has 6 employees in 羅東興東加盟店.
+2018-01-26 10:55:10,676 - INFO - Start parse http://H223.century21.com.tw.
+2018-01-26 10:55:10,691 - INFO - There has 20 employees in 天母三越加盟店.
+2018-01-26 10:55:11,449 - INFO - Start parse http://M035.century21.com.tw.
+2018-01-26 10:55:11,459 - INFO - There has 11 employees in 成大林森加盟店.
+2018-01-26 10:55:11,989 - INFO - Start parse http://K110.century21.com.tw.
+2018-01-26 10:55:12,002 - INFO - There has 12 employees in 台中中科加盟店.
+2018-01-26 10:55:12,652 - INFO - Start parse http://I101.century21.com.tw.
+2018-01-26 10:55:12,662 - INFO - There has 11 employees in 大溪埔頂加盟店.
+2018-01-26 10:55:13,236 - INFO - Start parse http://J323.century21.com.tw.
+2018-01-26 10:55:13,243 - INFO - There has 4 employees in 淡金加盟店.
+2018-01-26 10:55:13,462 - INFO - Start parse http://N081.century21.com.tw.
+2018-01-26 10:55:13,472 - INFO - There has 9 employees in 楠梓都會公園加盟店.
+2018-01-26 10:55:13,839 - INFO - Start parse http://J306.century21.com.tw.
+2018-01-26 10:55:13,854 - INFO - There has 20 employees in 林口三井加盟店.
+2018-01-26 10:55:14,573 - INFO - Start parse http://K097.century21.com.tw.
+2018-01-26 10:55:14,584 - INFO - There has 13 employees in 大雅民興加盟店.
+2018-01-26 10:55:14,968 - INFO - Start parse http://J307.century21.com.tw.
+2018-01-26 10:55:14,978 - INFO - There has 12 employees in 永和頂溪加盟店.
+2018-01-26 10:55:15,503 - INFO - Start parse http://H153.century21.com.tw.
+2018-01-26 10:55:15,510 - INFO - There has 3 employees in 大安信義加盟店.
+2018-01-26 10:55:15,688 - INFO - Start parse http://N080.century21.com.tw.
+2018-01-26 10:55:15,703 - INFO - There has 20 employees in 花蓮六期加盟店.
+2018-01-26 10:55:16,415 - INFO - Start parse http://H156.century21.com.tw.
+2018-01-26 10:55:16,424 - INFO - There has 0 employees in 天母芝山加盟店.
+2018-01-26 10:55:16,485 - INFO - Start parse http://K116.century21.com.tw.
+2018-01-26 10:55:16,497 - INFO - There has 10 employees in 霧峰大同加盟店.
+2018-01-26 10:55:16,844 - INFO - Start parse http://H225.century21.com.tw.
+2018-01-26 10:55:16,851 - INFO - There has 6 employees in 南港經貿加盟店.
+2018-01-26 10:55:17,101 - INFO - Start parse http://J309.century21.com.tw.
+2018-01-26 10:55:17,110 - INFO - There has 10 employees in 基隆新豐加盟店.
+2018-01-26 10:55:17,414 - INFO - Start parse http://J310.century21.com.tw.
+2018-01-26 10:55:17,423 - INFO - There has 9 employees in 板橋民生捷運加盟店.
+2018-01-26 10:55:17,731 - INFO - Start parse http://M028.century21.com.tw.
+2018-01-26 10:55:17,742 - INFO - There has 14 employees in 台南東寧加盟店.
+2018-01-26 10:55:18,284 - INFO - Start parse http://K015.century21.com.tw.
+2018-01-26 10:55:18,297 - INFO - There has 16 employees in 七期惠中加盟店.
+2018-01-26 10:55:18,875 - INFO - Start parse http://H156.century21.com.tw.
+2018-01-26 10:55:18,882 - INFO - There has 0 employees in 天母芝山加盟店.
+2018-01-26 10:55:18,963 - INFO - Start parse http://K111.century21.com.tw.
+2018-01-26 10:55:18,971 - INFO - There has 6 employees in 中科福康加盟店.
+2018-01-26 10:55:19,200 - INFO - Start parse http://J316.century21.com.tw.
+2018-01-26 10:55:19,207 - INFO - There has 9 employees in 礁溪加盟店.
+2018-01-26 10:55:19,614 - INFO - Start parse http://K098.century21.com.tw.
+2018-01-26 10:55:19,627 - INFO - There has 18 employees in 七期大都會加盟店.
+2018-01-26 10:55:20,438 - INFO - Start parse http://J318.century21.com.tw.
+2018-01-26 10:55:20,448 - INFO - There has 10 employees in 宜蘭文化加盟店.
+2018-01-26 10:55:20,576 - INFO - Start parse http://H241.century21.com.tw.
+2018-01-26 10:55:20,582 - INFO - There has 4 employees in 台北南門加盟店.
+2018-01-26 10:55:20,815 - INFO - Start parse http://N075.century21.com.tw.
+2018-01-26 10:55:20,829 - INFO - There has 20 employees in 高雄大學加盟店.
+2018-01-26 10:55:21,537 - INFO - Start parse http://K038.century21.com.tw.
+2018-01-26 10:55:21,544 - INFO - There has 6 employees in 鹿港中正加盟店.
+2018-01-26 10:55:21,667 - INFO - Start parse http://I101.century21.com.tw.
+2018-01-26 10:55:21,677 - INFO - There has 11 employees in 大溪埔頂加盟店.
+2018-01-26 10:55:21,907 - INFO - Start parse http://N061.century21.com.tw.
+2018-01-26 10:55:21,915 - INFO - There has 6 employees in 屏東建國加盟店.
+2018-01-26 10:55:22,368 - INFO - Start parse http://J275.century21.com.tw.
+2018-01-26 10:55:22,376 - INFO - There has 8 employees in 萬華青年公園加盟店.
+2018-01-26 10:55:22,728 - INFO - Start parse http://N083.century21.com.tw.
+2018-01-26 10:55:22,737 - INFO - There has 10 employees in 屏東文化中心加盟店.
+2018-01-26 10:55:22,880 - INFO - Start parse http://I115.century21.com.tw.
+2018-01-26 10:55:22,892 - INFO - There has 12 employees in 楊梅中山加盟店.
+2018-01-26 10:55:23,421 - INFO - Start parse http://K105.century21.com.tw.
+2018-01-26 10:55:23,432 - INFO - There has 12 employees in 東區精英加盟店.
+2018-01-26 10:55:23,986 - INFO - Start parse http://J323.century21.com.tw.
+2018-01-26 10:55:23,993 - INFO - There has 4 employees in 淡金加盟店.
+2018-01-26 10:55:24,084 - INFO - Start parse http://N070.century21.com.tw.
+2018-01-26 10:55:24,098 - INFO - There has 18 employees in 花蓮商校加盟店.
+2018-01-26 10:55:24,396 - INFO - Start parse http://J317.century21.com.tw.
+2018-01-26 10:55:24,404 - INFO - There has 9 employees in 宜蘭中山加盟店.
+2018-01-26 10:55:24,696 - INFO - Start parse http://J310.century21.com.tw.
+2018-01-26 10:55:24,707 - INFO - There has 9 employees in 板橋民生捷運加盟店.
+2018-01-26 10:55:24,855 - INFO - Start parse http://K097.century21.com.tw.
+2018-01-26 10:55:24,865 - INFO - There has 13 employees in 大雅民興加盟店.
+2018-01-26 10:55:25,114 - INFO - Start parse http://I088.century21.com.tw.
+2018-01-26 10:55:25,129 - INFO - There has 20 employees in 中壢中原加盟店.
+2018-01-26 10:55:25,730 - INFO - Start parse http://K105.century21.com.tw.
+2018-01-26 10:55:25,741 - INFO - There has 12 employees in 東區精英加盟店.
+2018-01-26 10:55:26,016 - INFO - Start parse http://N061.century21.com.tw.
+2018-01-26 10:55:26,024 - INFO - There has 6 employees in 屏東建國加盟店.
+2018-01-26 10:55:26,157 - INFO - Start parse http://K110.century21.com.tw.
+2018-01-26 10:55:26,168 - INFO - There has 12 employees in 台中中科加盟店.
+2018-01-26 10:55:26,353 - INFO - Start parse http://H156.century21.com.tw.
+2018-01-26 10:55:26,359 - INFO - There has 0 employees in 天母芝山加盟店.
+2018-01-26 10:55:26,426 - INFO - Start parse http://N082.century21.com.tw.
+2018-01-26 10:55:26,437 - INFO - There has 14 employees in 北高雄高鐵加盟店.
+2018-01-26 10:55:27,099 - INFO - Start parse http://K115.century21.com.tw.
+2018-01-26 10:55:27,113 - INFO - There has 20 employees in 河南福星加盟店.
+2018-01-26 10:55:27,752 - INFO - Start parse http://K112.century21.com.tw.
+2018-01-26 10:55:27,759 - INFO - There has 1 employees in 彰化溪湖加盟店.
+2018-01-26 10:55:27,870 - INFO - Start parse http://I090.century21.com.tw.
+2018-01-26 10:55:27,882 - INFO - There has 17 employees in 大園大江加盟店.
+2018-01-26 10:55:28,563 - INFO - Start parse http://H240.century21.com.tw.
+2018-01-26 10:55:28,569 - INFO - There has 2 employees in 中正衡陽加盟店.
+2018-01-26 10:55:28,711 - INFO - Start parse http://I098.century21.com.tw.
+2018-01-26 10:55:28,721 - INFO - There has 10 employees in 新竹龍山國小加盟店.
+2018-01-26 10:55:29,135 - INFO - Start parse http://N056.century21.com.tw.
+2018-01-26 10:55:29,146 - INFO - There has 14 employees in 台東中華加盟店.
+2018-01-26 10:55:29,817 - INFO - Start parse http://N078.century21.com.tw.
+2018-01-26 10:55:29,825 - INFO - There has 5 employees in 屏東復興加盟店.
+2018-01-26 10:55:30,203 - INFO - Start parse http://I099.century21.com.tw.
+2018-01-26 10:55:30,211 - INFO - There has 8 employees in 平鎮定誠加盟店.
+2018-01-26 10:55:30,497 - INFO - Start parse http://K091.century21.com.tw.
+2018-01-26 10:55:30,504 - INFO - There has 4 employees in 金馬林森加盟店.
+2018-01-26 10:55:30,677 - INFO - Start parse http://N064.century21.com.tw.
+2018-01-26 10:55:30,689 - INFO - There has 16 employees in 台東傳廣加盟店.
+2018-01-26 10:55:31,221 - INFO - Start parse http://M038.century21.com.tw.
+2018-01-26 10:55:31,230 - INFO - There has 5 employees in 嘉義世賢加盟店.
+2018-01-26 10:55:31,492 - INFO - Start parse http://I116.century21.com.tw.
+2018-01-26 10:55:31,499 - INFO - There has 3 employees in 八德金和加盟店.
+2018-01-26 10:55:31,641 - INFO - Start parse http://M036.century21.com.tw.
+2018-01-26 10:55:31,647 - INFO - There has 2 employees in 虎尾虎中加盟店.
+2018-01-26 10:55:31,862 - INFO - Start parse http://K115.century21.com.tw.
+2018-01-26 10:55:31,876 - INFO - There has 20 employees in 河南福星加盟店.
+2018-01-26 10:55:32,189 - INFO - Start parse http://K109.century21.com.tw.
+2018-01-26 10:55:32,203 - INFO - There has 12 employees in 太平樹德加盟店.
+2018-01-26 10:55:32,571 - INFO - Start parse http://N082.century21.com.tw.
+2018-01-26 10:55:32,583 - INFO - There has 14 employees in 北高雄高鐵加盟店.
+2018-01-26 10:55:32,818 - INFO - Start parse http://K106.century21.com.tw.
+2018-01-26 10:55:32,829 - INFO - There has 12 employees in 太平樹孝加盟店.
+2018-01-26 10:55:33,324 - INFO - Start parse http://K113.century21.com.tw.
+2018-01-26 10:55:33,334 - INFO - There has 10 employees in 逢甲寶慶加盟店.
+2018-01-26 10:55:33,799 - INFO - Start parse http://H242.century21.com.tw.
+2018-01-26 10:55:33,811 - INFO - There has 15 employees in 台北復興加盟店.
+2018-01-26 10:55:34,359 - INFO - Start parse http://J223.century21.com.tw.
+2018-01-26 10:55:34,371 - INFO - There has 20 employees in 板橋特區加盟店.
+2018-01-26 10:55:35,014 - INFO - Start parse http://H240.century21.com.tw.
+2018-01-26 10:55:35,020 - INFO - There has 2 employees in 中正衡陽加盟店.
+2018-01-26 10:55:35,139 - INFO - Start parse http://J308.century21.com.tw.
+2018-01-26 10:55:35,149 - INFO - There has 10 employees in 基隆七堵加盟店.
+2018-01-26 10:55:35,630 - INFO - Start parse http://I090.century21.com.tw.
+2018-01-26 10:55:35,643 - INFO - There has 17 employees in 大園大江加盟店.
+2018-01-26 10:55:35,871 - INFO - Start parse http://H243.century21.com.tw.
+2018-01-26 10:55:35,878 - INFO - There has 5 employees in 內湖明湖加盟店.
+2018-01-26 10:55:36,161 - INFO - Start parse http://K095.century21.com.tw.
+2018-01-26 10:55:36,178 - INFO - There has 20 employees in 逢甲福星加盟店.
+2018-01-26 10:55:36,954 - INFO - Start parse http://N056.century21.com.tw.
+2018-01-26 10:55:36,964 - INFO - There has 14 employees in 台東中華加盟店.
+2018-01-26 10:55:37,119 - INFO - Start parse http://K091.century21.com.tw.
+2018-01-26 10:55:37,126 - INFO - There has 4 employees in 金馬林森加盟店.
+2018-01-26 10:55:37,179 - INFO - Start parse http://K104.century21.com.tw.
+2018-01-26 10:55:37,188 - INFO - There has 7 employees in 員林莒光加盟店.
+2018-01-26 10:55:37,382 - INFO - Start parse http://N064.century21.com.tw.
+2018-01-26 10:55:37,393 - INFO - There has 16 employees in 台東傳廣加盟店.
+2018-01-26 16:49:19,947 - INFO - Start parse http://N084.century21.com.tw.
+2018-01-26 16:49:19,962 - INFO - There has 10 employees in 岡山站前加盟店.
+2018-01-26 16:49:20,333 - INFO - Start parse http://I039.century21.com.tw.
+2018-01-26 16:49:20,341 - INFO - There has 4 employees in 竹北高鐵加盟店.
+2018-01-26 16:49:20,493 - INFO - Start parse http://I073.century21.com.tw.
+2018-01-26 16:49:20,506 - INFO - There has 9 employees in 大竹上興加盟店.
+2018-01-26 16:49:20,861 - INFO - Start parse http://I113.century21.com.tw.
+2018-01-26 16:49:20,876 - INFO - There has 12 employees in 新竹園區加盟店.
+2018-01-26 16:49:21,343 - INFO - Start parse http://K069.century21.com.tw.
+2018-01-26 16:49:21,358 - INFO - There has 20 employees in 台中七期河南加盟店.
+2018-01-26 16:49:22,191 - INFO - Start parse http://J264.century21.com.tw.
+2018-01-26 16:49:22,204 - INFO - There has 14 employees in 新店安和加盟店.
+2018-01-26 16:49:22,772 - INFO - Start parse http://J262.century21.com.tw.
+2018-01-26 16:49:22,784 - INFO - There has 14 employees in 基隆中山加盟店.
+2018-01-26 16:49:23,313 - INFO - Start parse http://I096.century21.com.tw.
+2018-01-26 16:49:23,327 - INFO - There has 15 employees in 青埔捷運加盟店.
+2018-01-26 16:49:23,972 - INFO - Start parse http://N019.century21.com.tw.
+2018-01-26 16:49:23,992 - INFO - There has 20 employees in 五甲瑞隆加盟店.
+2018-01-26 16:49:24,730 - INFO - Start parse http://H154.century21.com.tw.
+2018-01-26 16:49:24,745 - INFO - There has 11 employees in 大直美麗華加盟店.
+2018-01-26 16:49:25,111 - INFO - Start parse http://M030.century21.com.tw.
+2018-01-26 16:49:25,122 - INFO - There has 10 employees in 菁英永康加盟店.
+2018-01-26 16:49:25,669 - INFO - Start parse http://H199.century21.com.tw.
+2018-01-26 16:49:25,679 - INFO - There has 9 employees in 南港站前加盟店.
+2018-01-26 16:49:26,028 - INFO - Start parse http://I079.century21.com.tw.
+2018-01-26 16:49:26,036 - INFO - There has 3 employees in 內壢文化加盟店.
+2018-01-26 16:49:26,161 - INFO - Start parse http://H166.century21.com.tw.
+2018-01-26 16:49:26,171 - INFO - There has 11 employees in 南港重劃區加盟店.
+2018-01-26 16:49:26,987 - INFO - Start parse http://I078.century21.com.tw.
+2018-01-26 16:49:27,004 - INFO - There has 20 employees in 湖口工業區加盟店.
+2018-01-26 16:49:27,688 - INFO - Start parse http://M032.century21.com.tw.
+2018-01-26 16:49:27,700 - INFO - There has 11 employees in 虎尾文科加盟店.
+2018-01-26 16:49:28,200 - INFO - Start parse http://J296.century21.com.tw.
+2018-01-26 16:49:28,210 - INFO - There has 10 employees in 淡水運動中心加盟店.
+2018-01-26 16:49:28,689 - INFO - Start parse http://J197.century21.com.tw.
+2018-01-26 16:49:28,699 - INFO - There has 9 employees in 淡水竹圍加盟店.
+2018-01-26 16:49:29,128 - INFO - Start parse http://K072.century21.com.tw.
+2018-01-26 16:49:29,142 - INFO - There has 14 employees in 台中南區復興加盟店.
+2018-01-26 16:49:29,657 - INFO - Start parse http://I070.century21.com.tw.
+2018-01-26 16:49:29,667 - INFO - There has 8 employees in 湖口成功加盟店.
+2018-01-26 16:49:29,993 - INFO - Start parse http://I074.century21.com.tw.
+2018-01-26 16:49:30,003 - INFO - There has 10 employees in 桃園寶慶加盟店.
+2018-01-26 16:49:30,438 - INFO - Start parse http://I032.century21.com.tw.
+2018-01-26 16:49:30,449 - INFO - There has 9 employees in 南崁忠孝加盟店.
+2018-01-26 16:49:30,923 - INFO - Start parse http://J147.century21.com.tw.
+2018-01-26 16:49:30,939 - INFO - There has 20 employees in 捷運永安加盟店.
+2018-01-26 16:49:31,572 - INFO - Start parse http://J188.century21.com.tw.
+2018-01-26 16:49:31,585 - INFO - There has 8 employees in 新莊副都心中原加盟店.
+2018-01-26 16:49:31,881 - INFO - Start parse http://I012.century21.com.tw.
+2018-01-26 16:49:31,894 - INFO - There has 10 employees in 中壢環中加盟店.
+2018-01-26 16:49:32,217 - INFO - Start parse http://K005.century21.com.tw.
+2018-01-26 16:49:32,227 - INFO - There has 8 employees in 台中八期加盟店.
+2018-01-26 16:49:32,594 - INFO - Start parse http://J302.century21.com.tw.
+2018-01-26 16:49:32,603 - INFO - There has 8 employees in 三重三和加盟店.
+2018-01-26 16:49:32,986 - INFO - Start parse http://H044.century21.com.tw.
+2018-01-26 16:49:33,014 - INFO - There has 20 employees in 台北龍江加盟店.
+2018-01-26 16:49:33,756 - INFO - Start parse http://K052.century21.com.tw.
+2018-01-26 16:49:33,763 - INFO - There has 4 employees in 台中崇德加盟店.
+2018-01-26 16:49:33,983 - INFO - Start parse http://J266.century21.com.tw.
+2018-01-26 16:49:33,993 - INFO - There has 9 employees in 北大佳園加盟店.
+2018-01-26 16:49:34,358 - INFO - Start parse http://N019.century21.com.tw.
+2018-01-26 16:49:34,375 - INFO - There has 20 employees in 五甲瑞隆加盟店.
+2018-01-26 16:49:34,733 - INFO - Start parse http://I054.century21.com.tw.
+2018-01-26 16:49:34,750 - INFO - There has 7 employees in 新竹三民加盟店.
+2018-01-26 16:49:35,182 - INFO - Start parse http://H224.century21.com.tw.
+2018-01-26 16:49:35,193 - INFO - There has 6 employees in 金湖市港加盟店.
+2018-01-26 16:49:35,457 - INFO - Start parse http://K096.century21.com.tw.
+2018-01-26 16:49:35,470 - INFO - There has 6 employees in 彰化和美彰美加盟店.
+2018-01-26 16:49:35,767 - INFO - Start parse http://M009.century21.com.tw.
+2018-01-26 16:49:35,779 - INFO - There has 11 employees in 台南大學加盟店.
+2018-01-26 16:49:36,284 - INFO - Start parse http://N052.century21.com.tw.
+2018-01-26 16:49:36,295 - INFO - There has 13 employees in 岡山捷運加盟店.
+2018-01-26 16:49:36,997 - INFO - Start parse http://N041.century21.com.tw.
+2018-01-26 16:49:37,016 - INFO - There has 17 employees in 鳳頂鳳甲加盟店.
+2018-01-26 16:49:37,894 - INFO - Start parse http://H182.century21.com.tw.
+2018-01-26 16:49:37,911 - INFO - There has 20 employees in 仁愛加盟店.
+2018-01-26 16:49:38,588 - INFO - Start parse http://J133.century21.com.tw.
+2018-01-26 16:49:38,599 - INFO - There has 11 employees in 淡水加盟店.
+2018-01-26 16:49:39,057 - INFO - Start parse http://I031.century21.com.tw.
+2018-01-26 16:49:39,072 - INFO - There has 20 employees in 汎太經國加盟店.
+2018-01-26 16:49:39,714 - INFO - Start parse http://H209.century21.com.tw.
+2018-01-26 16:49:39,743 - INFO - There has 20 employees in 內湖四期加盟店.
+2018-01-26 16:49:40,470 - INFO - Start parse http://J300.century21.com.tw.
+2018-01-26 16:49:40,478 - INFO - There has 5 employees in 基隆仁愛加盟店.
+2018-01-26 16:49:40,673 - INFO - Start parse http://I054.century21.com.tw.
+2018-01-26 16:49:40,684 - INFO - There has 7 employees in 新竹三民加盟店.
+2018-01-26 16:49:40,938 - INFO - Start parse http://J133.century21.com.tw.
+2018-01-26 16:49:40,948 - INFO - There has 11 employees in 淡水加盟店.
+2018-01-26 16:49:41,208 - INFO - Start parse http://N019.century21.com.tw.
+2018-01-26 16:49:41,233 - INFO - There has 20 employees in 五甲瑞隆加盟店.
+2018-01-26 16:49:41,510 - INFO - Start parse http://I113.century21.com.tw.
+2018-01-26 16:49:41,522 - INFO - There has 12 employees in 新竹園區加盟店.
+2018-01-26 16:49:41,693 - INFO - Start parse http://K077.century21.com.tw.
+2018-01-26 16:49:41,704 - INFO - There has 10 employees in 南屯黎明加盟店.
+2018-01-26 16:49:42,097 - INFO - Start parse http://J278.century21.com.tw.
+2018-01-26 16:49:42,103 - INFO - There has 0 employees in 新店安祥加盟店.
+2018-01-26 16:49:42,169 - INFO - Start parse http://I079.century21.com.tw.
+2018-01-26 16:49:42,179 - INFO - There has 3 employees in 內壢文化加盟店.
+2018-01-26 16:49:42,288 - INFO - Start parse http://I031.century21.com.tw.
+2018-01-26 16:49:42,302 - INFO - There has 20 employees in 汎太經國加盟店.
+2018-01-26 16:49:42,601 - INFO - Start parse http://K074.century21.com.tw.
+2018-01-26 16:49:42,618 - INFO - There has 9 employees in 南投大同加盟店.
+2018-01-26 16:49:42,947 - INFO - Start parse http://I051.century21.com.tw.
+2018-01-26 16:49:42,965 - INFO - There has 19 employees in 汎太台茂加盟店.
+2018-01-26 16:49:43,916 - INFO - Start parse http://I064.century21.com.tw.
+2018-01-26 16:49:43,931 - INFO - There has 12 employees in 新豐松林加盟店.
+2018-01-26 16:49:44,360 - INFO - Start parse http://I085.century21.com.tw.
+2018-01-26 16:49:44,375 - INFO - There has 7 employees in 中壢民權加盟店.
+2018-01-26 16:49:44,926 - INFO - Start parse http://J188.century21.com.tw.
+2018-01-26 16:49:44,941 - INFO - There has 8 employees in 新莊副都心中原加盟店.
+2018-01-26 16:49:45,145 - INFO - Start parse http://J302.century21.com.tw.
+2018-01-26 16:49:45,169 - INFO - There has 8 employees in 三重三和加盟店.
+2018-01-26 16:49:45,313 - INFO - Start parse http://K075.century21.com.tw.
+2018-01-26 16:49:45,325 - INFO - There has 8 employees in 北屯太原加盟店.
+2018-01-26 16:49:45,710 - INFO - Start parse http://H199.century21.com.tw.
+2018-01-26 16:49:45,723 - INFO - There has 9 employees in 南港站前加盟店.
+2018-01-26 16:49:45,865 - INFO - Start parse http://I074.century21.com.tw.
+2018-01-26 16:49:45,883 - INFO - There has 10 employees in 桃園寶慶加盟店.
+2018-01-26 16:49:46,059 - INFO - Start parse http://J279.century21.com.tw.
+2018-01-26 16:49:46,069 - INFO - There has 9 employees in 新莊親水公園加盟店.
+2018-01-26 16:49:46,668 - INFO - Start parse http://I012.century21.com.tw.
+2018-01-26 16:49:46,680 - INFO - There has 10 employees in 中壢環中加盟店.
+2018-01-26 16:49:46,874 - INFO - Start parse http://N072.century21.com.tw.
+2018-01-26 16:49:46,882 - INFO - There has 6 employees in 楠梓台糖加盟店.
+2018-01-26 16:49:47,280 - INFO - Start parse http://I066.century21.com.tw.
+2018-01-26 16:49:47,298 - INFO - There has 14 employees in 桃園大興加盟店.
+2018-01-26 16:49:47,887 - INFO - Start parse http://I096.century21.com.tw.
+2018-01-26 16:49:47,904 - INFO - There has 15 employees in 青埔捷運加盟店.
+2018-01-26 16:49:48,253 - INFO - Start parse http://H166.century21.com.tw.
+2018-01-26 16:49:48,272 - INFO - There has 11 employees in 南港重劃區加盟店.
+2018-01-26 16:49:48,454 - INFO - Start parse http://I040.century21.com.tw.
+2018-01-26 16:49:48,466 - INFO - There has 6 employees in 竹北台大加盟店.
+2018-01-26 16:49:48,870 - INFO - Start parse http://I039.century21.com.tw.
+2018-01-26 16:49:48,883 - INFO - There has 4 employees in 竹北高鐵加盟店.
+2018-01-26 16:49:48,984 - INFO - Start parse http://M009.century21.com.tw.
+2018-01-26 16:49:48,996 - INFO - There has 11 employees in 台南大學加盟店.
+2018-01-26 16:49:49,172 - INFO - Start parse http://I045.century21.com.tw.
+2018-01-26 16:49:49,183 - INFO - There has 7 employees in 中壢環北加盟店.
+2018-01-26 16:49:49,501 - INFO - Start parse http://I073.century21.com.tw.
+2018-01-26 16:49:49,511 - INFO - There has 9 employees in 大竹上興加盟店.
+2018-01-26 16:49:49,634 - INFO - Start parse http://K014.century21.com.tw.
+2018-01-26 16:49:49,646 - INFO - There has 14 employees in 台中十期加盟店.
+2018-01-26 16:49:50,248 - INFO - Start parse http://I086.century21.com.tw.
+2018-01-26 16:49:50,267 - INFO - There has 17 employees in 苗栗縣府加盟店.
+2018-01-26 16:49:51,047 - INFO - Start parse http://H044.century21.com.tw.
+2018-01-26 16:49:51,066 - INFO - There has 20 employees in 台北龍江加盟店.
+2018-01-26 16:49:51,503 - INFO - Start parse http://J300.century21.com.tw.
+2018-01-26 16:49:51,515 - INFO - There has 5 employees in 基隆仁愛加盟店.
+2018-01-26 16:49:51,671 - INFO - Start parse http://I031.century21.com.tw.
+2018-01-26 16:49:51,688 - INFO - There has 20 employees in 汎太經國加盟店.
+2018-01-26 16:49:51,999 - INFO - Start parse http://M030.century21.com.tw.
+2018-01-26 16:49:52,011 - INFO - There has 10 employees in 菁英永康加盟店.
+2018-01-26 16:49:52,184 - INFO - Start parse http://J280.century21.com.tw.
+2018-01-26 16:49:52,191 - INFO - There has 3 employees in 三重集賢重劃加盟店.
+2018-01-26 16:49:52,426 - INFO - Start parse http://M001.century21.com.tw.
+2018-01-26 16:49:52,440 - INFO - There has 13 employees in 台南崇善加盟店.
+2018-01-26 16:49:52,957 - INFO - Start parse http://I079.century21.com.tw.
+2018-01-26 16:49:52,969 - INFO - There has 3 employees in 內壢文化加盟店.
+2018-01-26 16:49:53,084 - INFO - Start parse http://J296.century21.com.tw.
+2018-01-26 16:49:53,096 - INFO - There has 10 employees in 淡水運動中心加盟店.
+2018-01-26 16:49:53,288 - INFO - Start parse http://J155.century21.com.tw.
+2018-01-26 16:49:53,308 - INFO - There has 6 employees in 五股成泰加盟店.
+2018-01-26 16:49:53,541 - INFO - Start parse http://K005.century21.com.tw.
+2018-01-26 16:49:53,556 - INFO - There has 8 employees in 台中八期加盟店.
+2018-01-26 16:49:53,754 - INFO - Start parse http://N063.century21.com.tw.
+2018-01-26 16:49:53,772 - INFO - There has 13 employees in 花蓮慈濟加盟店.
+2018-01-26 16:49:54,329 - INFO - Start parse http://I086.century21.com.tw.
+2018-01-26 16:49:54,346 - INFO - There has 17 employees in 苗栗縣府加盟店.
+2018-01-26 16:49:54,746 - INFO - Start parse http://N016.century21.com.tw.
+2018-01-26 16:49:54,761 - INFO - There has 7 employees in 富農加盟店.
+2018-01-26 16:49:55,057 - INFO - Start parse http://I077.century21.com.tw.
+2018-01-26 16:49:55,066 - INFO - There has 1 employees in 龜山萬壽加盟店.
+2018-01-26 16:49:55,190 - INFO - Start parse http://I028.century21.com.tw.
+2018-01-26 16:49:55,204 - INFO - There has 11 employees in 桃園南平加盟店.
+2018-01-26 16:49:55,810 - INFO - Start parse http://K074.century21.com.tw.
+2018-01-26 16:49:55,826 - INFO - There has 9 employees in 南投大同加盟店.
+2018-01-26 16:49:56,063 - INFO - Start parse http://I085.century21.com.tw.
+2018-01-26 16:49:56,071 - INFO - There has 7 employees in 中壢民權加盟店.
+2018-01-26 16:49:56,185 - INFO - Start parse http://I012.century21.com.tw.
+2018-01-26 16:49:56,196 - INFO - There has 10 employees in 中壢環中加盟店.
+2018-01-26 16:49:56,379 - INFO - Start parse http://J133.century21.com.tw.
+2018-01-26 16:49:56,390 - INFO - There has 11 employees in 淡水加盟店.
+2018-01-26 16:49:56,587 - INFO - Start parse http://I078.century21.com.tw.
+2018-01-26 16:49:56,603 - INFO - There has 20 employees in 湖口工業區加盟店.
+2018-01-26 16:49:57,067 - INFO - Start parse http://J264.century21.com.tw.
+2018-01-26 16:49:57,078 - INFO - There has 14 employees in 新店安和加盟店.
+2018-01-26 16:49:57,332 - INFO - Start parse http://K014.century21.com.tw.
+2018-01-26 16:49:57,343 - INFO - There has 14 employees in 台中十期加盟店.
+2018-01-26 16:49:57,687 - INFO - Start parse http://J314.century21.com.tw.
+2018-01-26 16:49:57,697 - INFO - There has 11 employees in 蘆洲展宸光明加盟店.
+2018-01-26 16:49:58,261 - INFO - Start parse http://I073.century21.com.tw.
+2018-01-26 16:49:58,272 - INFO - There has 9 employees in 大竹上興加盟店.
+2018-01-26 16:49:58,404 - INFO - Start parse http://K077.century21.com.tw.
+2018-01-26 16:49:58,414 - INFO - There has 10 employees in 南屯黎明加盟店.
+2018-01-26 16:49:58,580 - INFO - Start parse http://N027.century21.com.tw.
+2018-01-26 16:49:58,596 - INFO - There has 20 employees in 高雄仁武加盟店.
+2018-01-26 16:49:59,292 - INFO - Start parse http://J300.century21.com.tw.
+2018-01-26 16:49:59,302 - INFO - There has 5 employees in 基隆仁愛加盟店.
+2018-01-26 16:49:59,421 - INFO - Start parse http://H223.century21.com.tw.
+2018-01-26 16:49:59,443 - INFO - There has 20 employees in 天母三越加盟店.
+2018-01-26 16:50:00,272 - INFO - Start parse http://K097.century21.com.tw.
+2018-01-26 16:50:00,291 - INFO - There has 13 employees in 大雅民興加盟店.
+2018-01-26 16:50:00,932 - INFO - Start parse http://H156.century21.com.tw.
+2018-01-26 16:50:00,940 - INFO - There has 0 employees in 天母芝山加盟店.
+2018-01-26 16:50:00,998 - INFO - Start parse http://N083.century21.com.tw.
+2018-01-26 16:50:01,021 - INFO - There has 10 employees in 屏東文化中心加盟店.
+2018-01-26 16:50:01,482 - INFO - Start parse http://N067.century21.com.tw.
+2018-01-26 16:50:01,492 - INFO - There has 13 employees in 花蓮中華加盟店.
+2018-01-26 16:50:01,982 - INFO - Start parse http://J309.century21.com.tw.
+2018-01-26 16:50:01,993 - INFO - There has 10 employees in 基隆新豐加盟店.
+2018-01-26 16:50:02,594 - INFO - Start parse http://H216.century21.com.tw.
+2018-01-26 16:50:02,608 - INFO - There has 17 employees in 松江南京加盟店.
+2018-01-26 16:50:03,160 - INFO - Start parse http://K015.century21.com.tw.
+2018-01-26 16:50:03,180 - INFO - There has 16 employees in 七期惠中加盟店.
+2018-01-26 16:50:04,081 - INFO - Start parse http://K116.century21.com.tw.
+2018-01-26 16:50:04,090 - INFO - There has 10 employees in 霧峰大同加盟店.
+2018-01-26 16:50:04,583 - INFO - Start parse http://I095.century21.com.tw.
+2018-01-26 16:50:04,598 - INFO - There has 7 employees in 新竹食品加盟店.
+2018-01-26 16:50:04,905 - INFO - Start parse http://K110.century21.com.tw.
+2018-01-26 16:50:04,919 - INFO - There has 12 employees in 台中中科加盟店.
+2018-01-26 16:50:05,477 - INFO - Start parse http://J275.century21.com.tw.
+2018-01-26 16:50:05,484 - INFO - There has 8 employees in 萬華青年公園加盟店.
+2018-01-26 16:50:05,867 - INFO - Start parse http://J318.century21.com.tw.
+2018-01-26 16:50:05,877 - INFO - There has 10 employees in 宜蘭文化加盟店.
+2018-01-26 16:50:06,377 - INFO - Start parse http://J316.century21.com.tw.
+2018-01-26 16:50:06,389 - INFO - There has 9 employees in 礁溪加盟店.
+2018-01-26 16:50:06,789 - INFO - Start parse http://J303.century21.com.tw.
+2018-01-26 16:50:06,796 - INFO - There has 4 employees in 泰山十八甲加盟店.
+2018-01-26 16:50:07,145 - INFO - Start parse http://H244.century21.com.tw.
+2018-01-26 16:50:07,160 - INFO - There has 20 employees in 天母克強加盟店.
+2018-01-26 16:50:07,913 - INFO - Start parse http://J313.century21.com.tw.
+2018-01-26 16:50:07,923 - INFO - There has 9 employees in 宜蘭公園加盟店.
+2018-01-26 16:50:08,345 - INFO - Start parse http://K038.century21.com.tw.
+2018-01-26 16:50:08,353 - INFO - There has 6 employees in 鹿港中正加盟店.
+2018-01-26 16:50:08,686 - INFO - Start parse http://I115.century21.com.tw.
+2018-01-26 16:50:08,700 - INFO - There has 12 employees in 楊梅中山加盟店.
+2018-01-26 16:50:09,307 - INFO - Start parse http://J307.century21.com.tw.
+2018-01-26 16:50:09,343 - INFO - There has 12 employees in 永和頂溪加盟店.
+2018-01-26 16:50:10,202 - INFO - Start parse http://K098.century21.com.tw.
+2018-01-26 16:50:10,220 - INFO - There has 18 employees in 七期大都會加盟店.
+2018-01-26 16:50:11,094 - INFO - Start parse http://N067.century21.com.tw.
+2018-01-26 16:50:11,108 - INFO - There has 13 employees in 花蓮中華加盟店.
+2018-01-26 16:50:11,316 - INFO - Start parse http://K065.century21.com.tw.
+2018-01-26 16:50:11,331 - INFO - There has 6 employees in 七期朝富加盟店.
+2018-01-26 16:50:11,705 - INFO - Start parse http://H244.century21.com.tw.
+2018-01-26 16:50:11,735 - INFO - There has 20 employees in 天母克強加盟店.
+2018-01-26 16:50:12,346 - INFO - Start parse http://J307.century21.com.tw.
+2018-01-26 16:50:12,359 - INFO - There has 12 employees in 永和頂溪加盟店.
+2018-01-26 16:50:12,539 - INFO - Start parse http://K015.century21.com.tw.
+2018-01-26 16:50:12,557 - INFO - There has 16 employees in 七期惠中加盟店.
+2018-01-26 16:50:12,828 - INFO - Start parse http://N070.century21.com.tw.
+2018-01-26 16:50:12,851 - INFO - There has 18 employees in 花蓮商校加盟店.
+2018-01-26 16:50:13,677 - INFO - Start parse http://J312.century21.com.tw.
+2018-01-26 16:50:13,688 - INFO - There has 6 employees in 羅東興東加盟店.
+2018-01-26 16:50:13,982 - INFO - Start parse http://K116.century21.com.tw.
+2018-01-26 16:50:13,991 - INFO - There has 10 employees in 霧峰大同加盟店.
+2018-01-26 16:50:14,100 - INFO - Start parse http://J323.century21.com.tw.
+2018-01-26 16:50:14,107 - INFO - There has 4 employees in 淡金加盟店.
+2018-01-26 16:50:14,514 - INFO - Start parse http://K038.century21.com.tw.
+2018-01-26 16:50:14,525 - INFO - There has 6 employees in 鹿港中正加盟店.
+2018-01-26 16:50:14,661 - INFO - Start parse http://H156.century21.com.tw.
+2018-01-26 16:50:14,667 - INFO - There has 0 employees in 天母芝山加盟店.
+2018-01-26 16:50:14,746 - INFO - Start parse http://H225.century21.com.tw.
+2018-01-26 16:50:14,758 - INFO - There has 6 employees in 南港經貿加盟店.
+2018-01-26 16:50:15,207 - INFO - Start parse http://H235.century21.com.tw.
+2018-01-26 16:50:15,223 - INFO - There has 19 employees in 萬華萬大加盟店.
+2018-01-26 16:50:15,907 - INFO - Start parse http://J275.century21.com.tw.
+2018-01-26 16:50:15,917 - INFO - There has 8 employees in 萬華青年公園加盟店.
+2018-01-26 16:50:16,071 - INFO - Start parse http://I095.century21.com.tw.
+2018-01-26 16:50:16,099 - INFO - There has 7 employees in 新竹食品加盟店.
+2018-01-26 16:50:16,299 - INFO - Start parse http://J317.century21.com.tw.
+2018-01-26 16:50:16,323 - INFO - There has 9 employees in 宜蘭中山加盟店.
+2018-01-26 16:50:17,009 - INFO - Start parse http://I107.century21.com.tw.
+2018-01-26 16:50:17,027 - INFO - There has 20 employees in 青埔棒球場加盟店.
+2018-01-26 16:50:18,330 - INFO - Start parse http://J216.century21.com.tw.
+2018-01-26 16:50:18,369 - INFO - There has 10 employees in 林口捷運站前加盟店.
+2018-01-26 16:50:19,101 - INFO - Start parse http://N083.century21.com.tw.
+2018-01-26 16:50:19,117 - INFO - There has 10 employees in 屏東文化中心加盟店.
+2018-01-26 16:50:19,358 - INFO - Start parse http://M028.century21.com.tw.
+2018-01-26 16:50:19,378 - INFO - There has 14 employees in 台南東寧加盟店.
+2018-01-26 16:50:19,858 - INFO - Start parse http://I080.century21.com.tw.
+2018-01-26 16:50:19,875 - INFO - There has 17 employees in 龍潭大昌加盟店.
+2018-01-26 16:50:20,762 - INFO - Start parse http://H223.century21.com.tw.
+2018-01-26 16:50:20,775 - INFO - There has 20 employees in 天母三越加盟店.
+2018-01-26 16:50:21,086 - INFO - Start parse http://H216.century21.com.tw.
+2018-01-26 16:50:21,102 - INFO - There has 17 employees in 松江南京加盟店.
+2018-01-26 16:50:21,334 - INFO - Start parse http://J313.century21.com.tw.
+2018-01-26 16:50:21,349 - INFO - There has 9 employees in 宜蘭公園加盟店.
+2018-01-26 16:50:21,556 - INFO - Start parse http://J306.century21.com.tw.
+2018-01-26 16:50:21,570 - INFO - There has 20 employees in 林口三井加盟店.
+2018-01-26 16:50:22,488 - INFO - Start parse http://I101.century21.com.tw.
+2018-01-26 16:50:22,503 - INFO - There has 11 employees in 大溪埔頂加盟店.
+2018-01-26 16:50:22,920 - INFO - Start parse http://J318.century21.com.tw.
+2018-01-26 16:50:22,932 - INFO - There has 10 employees in 宜蘭文化加盟店.
+2018-01-26 16:50:23,144 - INFO - Start parse http://J309.century21.com.tw.
+2018-01-26 16:50:23,160 - INFO - There has 10 employees in 基隆新豐加盟店.
+2018-01-26 16:50:23,337 - INFO - Start parse http://K106.century21.com.tw.
+2018-01-26 16:50:23,350 - INFO - There has 12 employees in 太平樹孝加盟店.
+2018-01-26 16:50:23,915 - INFO - Start parse http://H243.century21.com.tw.
+2018-01-26 16:50:23,923 - INFO - There has 5 employees in 內湖明湖加盟店.
+2018-01-26 16:50:24,221 - INFO - Start parse http://K109.century21.com.tw.
+2018-01-26 16:50:24,235 - INFO - There has 12 employees in 太平樹德加盟店.
+2018-01-26 16:50:24,759 - INFO - Start parse http://I099.century21.com.tw.
+2018-01-26 16:50:24,768 - INFO - There has 8 employees in 平鎮定誠加盟店.
+2018-01-26 16:50:24,993 - INFO - Start parse http://K091.century21.com.tw.
+2018-01-26 16:50:25,001 - INFO - There has 4 employees in 金馬林森加盟店.
+2018-01-26 16:50:25,170 - INFO - Start parse http://I116.century21.com.tw.
+2018-01-26 16:50:25,179 - INFO - There has 3 employees in 八德金和加盟店.
+2018-01-26 16:50:25,416 - INFO - Start parse http://K112.century21.com.tw.
+2018-01-26 16:50:25,423 - INFO - There has 1 employees in 彰化溪湖加盟店.
+2018-01-26 16:50:25,565 - INFO - Start parse http://N056.century21.com.tw.
+2018-01-26 16:50:25,578 - INFO - There has 14 employees in 台東中華加盟店.
+2018-01-26 16:50:26,229 - INFO - Start parse http://H240.century21.com.tw.
+2018-01-26 16:50:26,241 - INFO - There has 2 employees in 中正衡陽加盟店.
+2018-01-26 16:50:26,355 - INFO - Start parse http://I098.century21.com.tw.
+2018-01-26 16:50:26,366 - INFO - There has 10 employees in 新竹龍山國小加盟店.
+2018-01-26 16:50:26,899 - INFO - Start parse http://J308.century21.com.tw.
+2018-01-26 16:50:26,930 - INFO - There has 10 employees in 基隆七堵加盟店.
+2018-01-26 16:50:28,090 - INFO - Start parse http://M027.century21.com.tw.
+2018-01-26 16:50:28,106 - INFO - There has 8 employees in 五福安中加盟店.
+2018-01-26 16:50:28,560 - INFO - Start parse http://K091.century21.com.tw.
+2018-01-26 16:50:28,581 - INFO - There has 4 employees in 金馬林森加盟店.
+2018-01-26 16:50:28,715 - INFO - Start parse http://K114.century21.com.tw.
+2018-01-26 16:50:28,732 - INFO - There has 2 employees in 市政華盛頓加盟店.
+2018-01-26 16:50:28,925 - INFO - Start parse http://J304.century21.com.tw.
+2018-01-26 16:50:28,948 - INFO - There has 7 employees in 基隆深溪加盟店.
+2018-01-26 16:50:29,881 - INFO - Start parse http://H243.century21.com.tw.
+2018-01-26 16:50:29,891 - INFO - There has 5 employees in 內湖明湖加盟店.
+2018-01-26 16:50:30,061 - INFO - Start parse http://I090.century21.com.tw.
+2018-01-26 16:50:30,076 - INFO - There has 17 employees in 大園大江加盟店.
+2018-01-26 16:50:31,512 - INFO - Start parse http://M027.century21.com.tw.
+2018-01-26 16:50:31,532 - INFO - There has 8 employees in 五福安中加盟店.
+2018-01-26 16:50:31,738 - INFO - Start parse http://H240.century21.com.tw.
+2018-01-26 16:50:31,747 - INFO - There has 2 employees in 中正衡陽加盟店.
+2018-01-26 16:50:31,853 - INFO - Start parse http://K106.century21.com.tw.
+2018-01-26 16:50:31,872 - INFO - There has 12 employees in 太平樹孝加盟店.
+2018-01-26 16:50:32,140 - INFO - Start parse http://I098.century21.com.tw.
+2018-01-26 16:50:32,152 - INFO - There has 10 employees in 新竹龍山國小加盟店.
+2018-01-26 16:50:32,434 - INFO - Start parse http://N082.century21.com.tw.
+2018-01-26 16:50:32,453 - INFO - There has 14 employees in 北高雄高鐵加盟店.
+2018-01-26 16:50:33,245 - INFO - Start parse http://I116.century21.com.tw.
+2018-01-26 16:50:33,261 - INFO - There has 3 employees in 八德金和加盟店.
+2018-01-26 16:50:33,386 - INFO - Start parse http://I099.century21.com.tw.
+2018-01-26 16:50:33,399 - INFO - There has 8 employees in 平鎮定誠加盟店.
+2018-01-26 16:50:33,780 - INFO - Start parse http://K095.century21.com.tw.
+2018-01-26 16:50:33,810 - INFO - There has 20 employees in 逢甲福星加盟店.
+2018-01-26 16:50:34,924 - INFO - Start parse http://H242.century21.com.tw.
+2018-01-26 16:50:34,940 - INFO - There has 15 employees in 台北復興加盟店.
+2018-01-26 16:50:35,900 - INFO - Start parse http://M036.century21.com.tw.
+2018-01-26 16:50:35,908 - INFO - There has 2 employees in 虎尾虎中加盟店.
+2018-01-26 16:50:36,123 - INFO - Start parse http://H233.century21.com.tw.
+2018-01-26 16:50:36,149 - INFO - There has 16 employees in 內湖捷運成功加盟店.
+2018-01-26 16:50:36,916 - INFO - Start parse http://J299.century21.com.tw.
+2018-01-26 16:50:36,927 - INFO - There has 10 employees in 新莊幸福加盟店.
+2018-01-26 16:50:37,485 - INFO - Start parse http://M039.century21.com.tw.
+2018-01-26 16:50:37,494 - INFO - There has 7 employees in 德高國小加盟店.
+2018-01-26 17:08:26,430 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R625.
+2018-01-26 17:08:26,557 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R625.
+2018-01-26 17:08:26,690 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R473.
+2018-01-26 17:08:26,745 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R473.
+2018-01-26 17:08:26,813 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R482.
+2018-01-26 17:08:26,877 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R482.
+2018-01-26 17:08:26,945 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R010.
+2018-01-26 17:08:27,012 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R010.
+2018-01-26 17:08:27,086 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R679.
+2018-01-26 17:08:27,149 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R679.
+2018-01-26 17:08:27,223 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R040.
+2018-01-26 17:08:27,293 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R040.
+2018-01-26 17:08:27,364 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R823.
+2018-01-26 17:08:27,436 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R823.
+2018-01-26 17:08:27,496 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R850.
+2018-01-26 17:08:27,563 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R850.
+2018-01-26 17:08:27,642 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R573.
+2018-01-26 17:08:27,777 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R573.
+2018-01-26 17:08:27,851 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R873.
+2018-01-26 17:08:27,914 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R873.
+2018-01-26 17:08:27,982 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R895.
+2018-01-26 17:08:28,043 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R895.
+2018-01-26 17:08:28,120 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R810.
+2018-01-26 17:08:28,179 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R810.
+2018-01-26 17:08:28,249 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R580.
+2018-01-26 17:08:28,318 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R580.
+2018-01-26 17:08:28,392 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R836.
+2018-01-26 17:08:28,461 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R836.
+2018-01-26 17:08:28,525 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R541.
+2018-01-26 17:08:28,620 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R541.
+2018-01-26 17:08:28,706 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R860.
+2018-01-26 17:08:28,814 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R860.
+2018-01-26 17:08:28,874 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R652.
+2018-01-26 17:08:28,996 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R652.
+2018-01-26 17:08:29,062 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R887.
+2018-01-26 17:08:29,131 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R887.
+2018-01-26 17:08:29,213 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R853.
+2018-01-26 17:08:29,286 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R853.
+2018-01-26 17:08:29,347 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R890.
+2018-01-26 17:08:29,435 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R890.
+2018-01-26 17:08:29,497 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R461.
+2018-01-26 17:08:29,589 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R461.
+2018-01-26 17:08:29,656 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R635.
+2018-01-26 17:08:29,731 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R635.
+2018-01-26 17:08:29,811 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R806.
+2018-01-26 17:08:29,876 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R806.
+2018-01-26 17:08:29,937 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R559.
+2018-01-26 17:08:30,002 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R559.
+2018-01-26 17:08:30,064 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R619.
+2018-01-26 17:08:30,139 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R619.
+2018-01-26 17:08:30,249 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R874.
+2018-01-26 17:08:30,334 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R874.
+2018-01-26 17:08:30,397 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R603.
+2018-01-26 17:08:30,462 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R603.
+2018-01-26 17:08:30,528 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R476.
+2018-01-26 17:08:30,652 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R476.
+2018-01-26 17:08:30,722 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R453.
+2018-01-26 17:08:30,790 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R453.
+2018-01-26 17:08:30,858 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R050.
+2018-01-26 17:08:30,922 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R050.
+2018-01-26 17:08:30,984 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R671.
+2018-01-26 17:08:31,053 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R671.
+2018-01-26 17:08:31,123 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R515.
+2018-01-26 17:08:31,190 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R515.
+2018-01-26 17:08:31,249 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R587.
+2018-01-26 17:08:31,329 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R587.
+2018-01-26 17:08:31,387 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R490.
+2018-01-26 17:08:31,506 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R490.
+2018-01-26 17:08:31,622 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R608.
+2018-01-26 17:08:31,691 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R608.
+2018-01-26 17:08:31,758 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R646.
+2018-01-26 17:08:31,825 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R646.
+2018-01-26 17:08:31,882 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R150.
+2018-01-26 17:08:31,948 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R150.
+2018-01-26 17:08:32,014 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R614.
+2018-01-26 17:08:32,107 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R614.
+2018-01-26 17:08:32,171 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R060.
+2018-01-26 17:08:32,239 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R060.
+2018-01-26 17:08:32,320 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R602.
+2018-01-26 17:08:32,399 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R602.
+2018-01-26 17:08:32,478 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R558.
+2018-01-26 17:08:32,549 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R558.
+2018-01-26 17:08:32,622 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R680.
+2018-01-26 17:08:32,684 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R680.
+2018-01-26 17:08:32,814 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R812.
+2018-01-26 17:08:32,888 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R812.
+2018-01-26 17:08:32,956 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R549.
+2018-01-26 17:08:33,025 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R549.
+2018-01-26 17:08:33,082 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R666.
+2018-01-26 17:08:33,149 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R666.
+2018-01-26 17:08:33,209 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R260.
+2018-01-26 17:08:33,276 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R260.
+2018-01-26 17:08:33,352 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R520.
+2018-01-26 17:08:33,449 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R520.
+2018-01-26 17:08:33,544 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R609.
+2018-01-26 17:08:33,612 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R609.
+2018-01-26 17:08:33,672 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R832.
+2018-01-26 17:08:33,737 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R832.
+2018-01-26 17:08:33,827 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R661.
+2018-01-26 17:08:33,910 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R661.
+2018-01-26 17:08:33,973 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R843.
+2018-01-26 17:08:34,101 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R843.
+2018-01-26 17:08:34,161 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R849.
+2018-01-26 17:08:34,232 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R849.
+2018-01-26 17:08:34,304 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R564.
+2018-01-26 17:08:34,368 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R564.
+2018-01-26 17:08:34,439 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R696.
+2018-01-26 17:08:34,516 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R696.
+2018-01-26 17:08:34,580 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R900.
+2018-01-26 17:08:34,643 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R900.
+2018-01-26 17:08:34,707 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R653.
+2018-01-26 17:08:34,776 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R653.
+2018-01-26 17:08:34,840 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R621.
+2018-01-26 17:08:34,902 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R621.
+2018-01-26 17:08:34,961 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R607.
+2018-01-26 17:08:35,016 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R607.
+2018-01-26 17:08:35,080 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R530.
+2018-01-26 17:08:35,143 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R530.
+2018-01-26 17:08:35,268 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R250.
+2018-01-26 17:08:35,331 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R250.
+2018-01-26 17:08:35,392 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R877.
+2018-01-26 17:08:35,490 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R877.
+2018-01-26 17:08:35,546 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R100.
+2018-01-26 17:08:35,608 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R100.
+2018-01-26 17:08:35,670 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R535.
+2018-01-26 17:08:35,736 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R535.
+2018-01-26 17:08:35,798 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R596.
+2018-01-26 17:08:35,877 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R596.
+2018-01-26 17:08:35,937 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R472.
+2018-01-26 17:08:36,002 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R472.
+2018-01-26 17:08:36,063 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R030.
+2018-01-26 17:08:36,122 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R030.
+2018-01-26 17:08:36,213 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R601.
+2018-01-26 17:08:36,283 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R601.
+2018-01-26 17:08:36,357 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R636.
+2018-01-26 17:08:36,474 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R636.
+2018-01-26 17:08:36,535 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R870.
+2018-01-26 17:08:36,669 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R870.
+2018-01-26 17:08:36,727 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R457.
+2018-01-26 17:08:36,822 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R457.
+2018-01-26 17:08:36,882 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R662.
+2018-01-26 17:08:36,954 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R662.
+2018-01-26 17:08:37,013 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R360.
+2018-01-26 17:08:37,111 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R360.
+2018-01-26 17:08:37,182 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R542.
+2018-01-26 17:08:37,245 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R542.
+2018-01-26 17:08:37,307 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R663.
+2018-01-26 17:08:37,375 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R663.
+2018-01-26 17:08:37,433 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R566.
+2018-01-26 17:08:37,493 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R566.
+2018-01-26 17:08:37,554 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R537.
+2018-01-26 17:08:37,629 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R537.
+2018-01-26 17:08:37,706 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R829.
+2018-01-26 17:08:37,827 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R829.
+2018-01-26 17:08:37,909 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R637.
+2018-01-26 17:08:37,998 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R637.
+2018-01-26 17:08:38,067 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R568.
+2018-01-26 17:08:38,133 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R568.
+2018-01-26 17:08:38,208 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R522.
+2018-01-26 17:08:38,268 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R522.
+2018-01-26 17:08:38,350 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R641.
+2018-01-26 17:08:38,424 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R641.
+2018-01-26 17:08:38,486 - INFO - Start parse http://branch.sinyi.com.tw/info.php/BR21.
+2018-01-26 17:08:38,564 - INFO - Start parse http://branch.sinyi.com.tw/info.php/BR21.
+2018-01-26 17:08:38,620 - INFO - Start parse http://branch.sinyi.com.tw/info.php/FC10.
+2018-01-26 17:08:38,681 - INFO - Start parse http://branch.sinyi.com.tw/info.php/FC10.
+2018-01-26 17:08:38,739 - INFO - Start parse http://branch.sinyi.com.tw/info.php/RD11.
+2018-01-26 17:08:38,801 - INFO - Start parse http://branch.sinyi.com.tw/info.php/RD11.
+2018-01-26 17:08:38,859 - INFO - Start parse http://branch.sinyi.com.tw/info.php/RD12.
+2018-01-26 17:08:38,915 - INFO - Start parse http://branch.sinyi.com.tw/info.php/RD12.
+2018-01-26 17:08:39,025 - INFO - Start parse http://branch.sinyi.com.tw/info.php/RD13.
+2018-01-26 17:08:39,082 - INFO - Start parse http://branch.sinyi.com.tw/info.php/RD13.
+2018-01-26 17:08:39,137 - INFO - Start parse http://branch.sinyi.com.tw/info.php/RD10.
+2018-01-26 17:08:39,193 - INFO - Start parse http://branch.sinyi.com.tw/info.php/RD10.
+2018-01-26 17:08:39,263 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R650.
+2018-01-26 17:08:39,341 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R650.
+2018-01-26 17:08:39,398 - INFO - Start parse http://branch.sinyi.com.tw/info.php/RD14.
+2018-01-26 17:08:39,484 - INFO - Start parse http://branch.sinyi.com.tw/info.php/RD14.
+2018-01-26 17:08:39,562 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R648.
+2018-01-26 17:08:39,629 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R648.
+2018-01-26 17:08:39,688 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R690.
+2018-01-26 17:08:39,751 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R690.
+2018-01-26 17:08:39,818 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R467.
+2018-01-26 17:08:39,889 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R467.
+2018-01-26 17:08:39,978 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R624.
+2018-01-26 17:08:40,052 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R624.
+2018-01-26 17:08:40,131 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R884.
+2018-01-26 17:08:40,207 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R884.
+2018-01-26 17:08:40,320 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R240.
+2018-01-26 17:08:40,385 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R240.
+2018-01-26 17:08:40,464 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R617.
+2018-01-26 17:08:40,547 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R617.
+2018-01-26 17:08:40,616 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R817.
+2018-01-26 17:08:40,684 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R817.
+2018-01-26 17:08:40,741 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R825.
+2018-01-26 17:08:40,806 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R825.
+2018-01-26 17:08:40,880 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R551.
+2018-01-26 17:08:40,944 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R551.
+2018-01-26 17:08:41,010 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R527.
+2018-01-26 17:08:41,070 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R527.
+2018-01-26 17:08:41,145 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R572.
+2018-01-26 17:08:41,221 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R572.
+2018-01-26 17:08:41,301 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R851.
+2018-01-26 17:08:41,367 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R851.
+2018-01-26 17:08:41,445 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R070.
+2018-01-26 17:08:41,571 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R070.
+2018-01-26 17:08:41,634 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R509.
+2018-01-26 17:08:41,709 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R509.
+2018-01-26 17:08:41,797 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R668.
+2018-01-26 17:08:41,862 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R668.
+2018-01-26 17:08:41,939 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R899.
+2018-01-26 17:08:42,005 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R899.
+2018-01-26 17:08:42,115 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R180.
+2018-01-26 17:08:42,184 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R180.
+2018-01-26 17:08:42,240 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R830.
+2018-01-26 17:08:42,299 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R830.
+2018-01-26 17:08:42,357 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R687.
+2018-01-26 17:08:42,415 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R687.
+2018-01-26 17:08:42,479 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R856.
+2018-01-26 17:08:42,553 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R856.
+2018-01-26 17:08:42,625 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R546.
+2018-01-26 17:08:42,737 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R546.
+2018-01-26 17:08:42,796 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R642.
+2018-01-26 17:08:42,875 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R642.
+2018-01-26 17:08:42,945 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R533.
+2018-01-26 17:08:43,016 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R533.
+2018-01-26 17:08:43,075 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R848.
+2018-01-26 17:08:43,147 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R848.
+2018-01-26 17:08:43,207 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R675.
+2018-01-26 17:08:43,269 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R675.
+2018-01-26 17:08:43,368 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R826.
+2018-01-26 17:08:43,458 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R826.
+2018-01-26 17:08:43,529 - INFO - Start parse http://branch.sinyi.com.tw/info.php/FC40.
+2018-01-26 17:08:43,609 - INFO - Start parse http://branch.sinyi.com.tw/info.php/FC40.
+2018-01-26 17:08:43,679 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R871.
+2018-01-26 17:08:43,747 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R871.
+2018-01-26 17:08:43,853 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R605.
+2018-01-26 17:08:43,929 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R605.
+2018-01-26 17:08:44,056 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R802.
+2018-01-26 17:08:44,150 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R802.
+2018-01-26 17:08:44,228 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R651.
+2018-01-26 17:08:44,294 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R651.
+2018-01-26 17:08:44,362 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R539.
+2018-01-26 17:08:44,431 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R539.
+2018-01-26 17:08:44,499 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R888.
+2018-01-26 17:08:44,566 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R888.
+2018-01-26 17:08:44,707 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R586.
+2018-01-26 17:08:44,812 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R586.
+2018-01-26 17:08:44,880 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R575.
+2018-01-26 17:08:44,943 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R575.
+2018-01-26 17:08:45,016 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R534.
+2018-01-26 17:08:45,084 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R534.
+2018-01-26 17:08:45,147 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R400.
+2018-01-26 17:08:45,215 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R400.
+2018-01-26 17:08:45,279 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R827.
+2018-01-26 17:08:45,397 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R827.
+2018-01-26 17:08:45,461 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R669.
+2018-01-26 17:08:45,538 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R669.
+2018-01-26 17:08:45,620 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R280.
+2018-01-26 17:08:45,688 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R280.
+2018-01-26 17:08:45,762 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R676.
+2018-01-26 17:08:45,906 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R676.
+2018-01-26 17:08:45,970 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R645.
+2018-01-26 17:08:46,044 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R645.
+2018-01-26 17:08:46,117 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R597.
+2018-01-26 17:08:46,201 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R597.
+2018-01-26 17:08:46,279 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R644.
+2018-01-26 17:08:46,353 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R644.
+2018-01-26 17:08:46,425 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R548.
+2018-01-26 17:08:46,493 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R548.
+2018-01-26 17:08:46,583 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R581.
+2018-01-26 17:08:46,655 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R581.
+2018-01-26 17:08:46,787 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R822.
+2018-01-26 17:08:46,893 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R822.
+2018-01-26 17:08:46,962 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R686.
+2018-01-26 17:08:47,028 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R686.
+2018-01-26 17:08:47,102 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R350.
+2018-01-26 17:08:47,165 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R350.
+2018-01-26 17:08:47,232 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R847.
+2018-01-26 17:08:47,291 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R847.
+2018-01-26 17:08:47,359 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R170.
+2018-01-26 17:08:47,459 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R170.
+2018-01-26 17:08:47,562 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R493.
+2018-01-26 17:08:47,629 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R493.
+2018-01-26 17:08:47,693 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R838.
+2018-01-26 17:08:47,759 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R838.
+2018-01-26 17:08:47,830 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R561.
+2018-01-26 17:08:47,898 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R561.
+2018-01-26 17:08:48,014 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R615.
+2018-01-26 17:08:48,072 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R615.
+2018-01-26 17:08:48,146 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R689.
+2018-01-26 17:08:48,225 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R689.
+2018-01-26 17:08:48,289 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R896.
+2018-01-26 17:08:48,352 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R896.
+2018-01-26 17:08:48,418 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R469.
+2018-01-26 17:08:48,484 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R469.
+2018-01-26 17:08:48,552 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R629.
+2018-01-26 17:08:48,635 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R629.
+2018-01-26 17:08:48,703 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R936.
+2018-01-26 17:08:48,779 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R936.
+2018-01-26 17:08:48,843 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R529.
+2018-01-26 17:08:48,914 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R529.
+2018-01-26 17:08:49,009 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R943.
+2018-01-26 17:08:49,078 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R943.
+2018-01-26 17:08:49,143 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R505.
+2018-01-26 17:08:49,271 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R505.
+2018-01-26 17:08:49,358 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R854.
+2018-01-26 17:08:49,423 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R854.
+2018-01-26 17:08:49,491 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R538.
+2018-01-26 17:08:49,554 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R538.
+2018-01-26 17:08:49,615 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R479.
+2018-01-26 17:08:49,681 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R479.
+2018-01-26 17:08:49,741 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R582.
+2018-01-26 17:08:49,801 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R582.
+2018-01-26 17:08:49,864 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R880.
+2018-01-26 17:08:49,943 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R880.
+2018-01-26 17:08:50,012 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R804.
+2018-01-26 17:08:50,078 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R804.
+2018-01-26 17:08:50,223 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R957.
+2018-01-26 17:08:50,297 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R957.
+2018-01-26 17:08:50,367 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R270.
+2018-01-26 17:08:50,466 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R270.
+2018-01-26 17:08:50,778 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R835.
+2018-01-26 17:08:50,839 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R835.
+2018-01-26 17:08:50,901 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R430.
+2018-01-26 17:08:50,964 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R430.
+2018-01-26 17:08:51,035 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R691.
+2018-01-26 17:08:51,104 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R691.
+2018-01-26 17:08:51,183 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R571.
+2018-01-26 17:08:51,288 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R571.
+2018-01-26 17:08:51,364 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R524.
+2018-01-26 17:08:51,433 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R524.
+2018-01-26 17:08:51,492 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R954.
+2018-01-26 17:08:51,575 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R954.
+2018-01-26 17:08:51,658 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R110.
+2018-01-26 17:08:51,745 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R110.
+2018-01-26 17:08:51,821 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R682.
+2018-01-26 17:08:51,885 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R682.
+2018-01-26 17:08:51,956 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R594.
+2018-01-26 17:08:52,101 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R594.
+2018-01-26 17:08:52,178 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R815.
+2018-01-26 17:08:52,237 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R815.
+2018-01-26 17:08:52,315 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R570.
+2018-01-26 17:08:52,380 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R570.
+2018-01-26 17:08:52,451 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R944.
+2018-01-26 17:08:52,523 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R944.
+2018-01-26 17:08:52,593 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R988.
+2018-01-26 17:08:52,686 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R988.
+2018-01-26 17:08:52,774 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R454.
+2018-01-26 17:08:52,832 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R454.
+2018-01-26 17:08:52,899 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R872.
+2018-01-26 17:08:52,958 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R872.
+2018-01-26 17:08:53,014 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R938.
+2018-01-26 17:08:53,092 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R938.
+2018-01-26 17:08:53,153 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R831.
+2018-01-26 17:08:53,218 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R831.
+2018-01-26 17:08:53,358 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R962.
+2018-01-26 17:08:53,423 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R962.
+2018-01-26 17:08:53,498 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R839.
+2018-01-26 17:08:53,573 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R839.
+2018-01-26 17:08:53,647 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R673.
+2018-01-26 17:08:53,725 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R673.
+2018-01-26 17:08:53,813 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R852.
+2018-01-26 17:08:53,878 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R852.
+2018-01-26 17:08:53,966 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R518.
+2018-01-26 17:08:54,069 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R518.
+2018-01-26 17:08:54,139 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R589.
+2018-01-26 17:08:54,206 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R589.
+2018-01-26 17:08:54,292 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R567.
+2018-01-26 17:08:54,356 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R567.
+2018-01-26 17:08:54,436 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R310.
+2018-01-26 17:08:54,517 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R310.
+2018-01-26 17:08:54,596 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R458.
+2018-01-26 17:08:54,727 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R458.
+2018-01-26 17:08:54,801 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R655.
+2018-01-26 17:08:54,865 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R655.
+2018-01-26 17:08:54,957 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R658.
+2018-01-26 17:08:55,036 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R658.
+2018-01-26 17:08:55,109 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R632.
+2018-01-26 17:08:55,174 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R632.
+2018-01-26 17:08:55,254 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R628.
+2018-01-26 17:08:55,334 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R628.
+2018-01-26 17:08:55,406 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R970.
+2018-01-26 17:08:55,511 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R970.
+2018-01-26 17:08:55,582 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R893.
+2018-01-26 17:08:55,644 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R893.
+2018-01-26 17:08:55,705 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R941.
+2018-01-26 17:08:55,835 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R941.
+2018-01-26 17:08:55,898 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R809.
+2018-01-26 17:08:55,961 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R809.
+2018-01-26 17:08:56,086 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R593.
+2018-01-26 17:08:56,150 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R593.
+2018-01-26 17:08:56,230 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R948.
+2018-01-26 17:08:56,312 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R948.
+2018-01-26 17:08:56,375 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R485.
+2018-01-26 17:08:56,441 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R485.
+2018-01-26 17:08:56,519 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R986.
+2018-01-26 17:08:56,599 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R986.
+2018-01-26 17:08:56,665 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R660.
+2018-01-26 17:08:56,735 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R660.
+2018-01-26 17:08:56,796 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R465.
+2018-01-26 17:08:56,863 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R465.
+2018-01-26 17:08:56,945 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R930.
+2018-01-26 17:08:57,006 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R930.
+2018-01-26 17:08:57,066 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R967.
+2018-01-26 17:08:57,123 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R967.
+2018-01-26 17:08:57,182 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R553.
+2018-01-26 17:08:57,304 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R553.
+2018-01-26 17:08:57,385 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R929.
+2018-01-26 17:08:57,468 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R929.
+2018-01-26 17:08:57,551 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R971.
+2018-01-26 17:08:57,620 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R971.
+2018-01-26 17:08:57,681 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R867.
+2018-01-26 17:08:57,753 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R867.
+2018-01-26 17:08:57,822 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R928.
+2018-01-26 17:08:57,890 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R928.
+2018-01-26 17:08:57,976 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R556.
+2018-01-26 17:08:58,048 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R556.
+2018-01-26 17:08:58,118 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R993.
+2018-01-26 17:08:58,174 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R993.
+2018-01-26 17:08:58,241 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R975.
+2018-01-26 17:08:58,306 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R975.
+2018-01-26 17:08:58,368 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R693.
+2018-01-26 17:08:58,432 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R693.
+2018-01-26 17:08:58,566 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R803.
+2018-01-26 17:08:58,629 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R803.
+2018-01-26 17:08:58,690 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R532.
+2018-01-26 17:08:58,747 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R532.
+2018-01-26 17:08:58,811 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R933.
+2018-01-26 17:08:58,868 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R933.
+2018-01-26 17:08:58,931 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R657.
+2018-01-26 17:08:58,990 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R657.
+2018-01-26 17:08:59,059 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R200.
+2018-01-26 17:08:59,148 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R200.
+2018-01-26 17:08:59,219 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R819.
+2018-01-26 17:08:59,277 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R819.
+2018-01-26 17:08:59,358 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R630.
+2018-01-26 17:08:59,424 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R630.
+2018-01-26 17:08:59,493 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R934.
+2018-01-26 17:08:59,559 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R934.
+2018-01-26 17:08:59,627 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R987.
+2018-01-26 17:08:59,747 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R987.
+2018-01-26 17:08:59,804 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R869.
+2018-01-26 17:08:59,863 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R869.
+2018-01-26 17:08:59,935 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R914.
+2018-01-26 17:08:59,990 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R914.
+2018-01-26 17:09:00,062 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R965.
+2018-01-26 17:09:00,125 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R965.
+2018-01-26 17:09:00,196 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R504.
+2018-01-26 17:09:00,273 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R504.
+2018-01-26 17:09:00,340 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R968.
+2018-01-26 17:09:00,416 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R968.
+2018-01-26 17:09:00,471 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R130.
+2018-01-26 17:09:00,536 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R130.
+2018-01-26 17:09:00,648 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R330.
+2018-01-26 17:09:00,709 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R330.
+2018-01-26 17:09:00,800 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R910.
+2018-01-26 17:09:00,886 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R910.
+2018-01-26 17:09:01,005 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R969.
+2018-01-26 17:09:01,085 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R969.
+2018-01-26 17:09:01,167 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R595.
+2018-01-26 17:09:01,225 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R595.
+2018-01-26 17:09:01,287 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R921.
+2018-01-26 17:09:01,357 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R921.
+2018-01-26 17:09:01,420 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R855.
+2018-01-26 17:09:01,530 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R855.
+2018-01-26 17:09:01,650 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R579.
+2018-01-26 17:09:01,735 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R579.
+2018-01-26 17:09:01,833 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R959.
+2018-01-26 17:09:01,897 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R959.
+2018-01-26 17:09:01,971 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R904.
+2018-01-26 17:09:02,047 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R904.
+2018-01-26 17:09:02,112 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R927.
+2018-01-26 17:09:02,192 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R927.
+2018-01-26 17:09:02,471 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R590.
+2018-01-26 17:09:02,553 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R590.
+2018-01-26 17:09:02,800 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R925.
+2018-01-26 17:09:03,044 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R925.
+2018-01-26 17:09:03,126 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R452.
+2018-01-26 17:09:03,189 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R452.
+2018-01-26 17:09:03,251 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R685.
+2018-01-26 17:09:03,313 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R685.
+2018-01-26 17:09:03,401 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R973.
+2018-01-26 17:09:03,511 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R973.
+2018-01-26 17:09:03,580 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R894.
+2018-01-26 17:09:03,657 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R894.
+2018-01-26 17:09:03,755 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R932.
+2018-01-26 17:09:03,847 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R932.
+2018-01-26 17:09:03,923 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R631.
+2018-01-26 17:09:04,016 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R631.
+2018-01-26 17:09:04,098 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R937.
+2018-01-26 17:09:04,210 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R937.
+2018-01-26 17:09:04,353 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R667.
+2018-01-26 17:09:04,420 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R667.
+2018-01-26 17:09:04,484 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R654.
+2018-01-26 17:09:04,547 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R654.
+2018-01-26 17:09:04,638 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R919.
+2018-01-26 17:09:04,732 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R919.
+2018-01-26 17:09:04,843 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R840.
+2018-01-26 17:09:05,096 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R840.
+2018-01-26 17:09:05,289 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R876.
+2018-01-26 17:09:05,598 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R876.
+2018-01-26 17:09:05,980 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R882.
+2018-01-26 17:09:06,268 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R882.
+2018-01-26 17:09:06,362 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R598.
+2018-01-26 17:09:06,490 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R598.
+2018-01-26 17:09:06,602 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R901.
+2018-01-26 17:09:06,819 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R901.
+2018-01-26 17:09:06,997 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R958.
+2018-01-26 17:09:07,385 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R958.
+2018-01-26 17:09:07,578 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R981.
+2018-01-26 17:09:07,948 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R981.
+2018-01-26 17:09:08,236 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R942.
+2018-01-26 17:09:08,410 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R942.
+2018-01-26 17:09:08,507 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R501.
+2018-01-26 17:09:08,657 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R501.
+2018-01-26 17:09:08,739 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R410.
+2018-01-26 17:09:08,838 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R410.
+2018-01-26 17:09:08,954 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R935.
+2018-01-26 17:09:09,046 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R935.
+2018-01-26 17:09:09,116 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R569.
+2018-01-26 17:09:09,188 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R569.
+2018-01-26 17:09:09,271 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R864.
+2018-01-26 17:09:09,343 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R864.
+2018-01-26 17:09:09,461 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R974.
+2018-01-26 17:09:09,587 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R974.
+2018-01-26 17:09:09,661 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R694.
+2018-01-26 17:09:09,734 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R694.
+2018-01-26 17:09:09,800 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R917.
+2018-01-26 17:09:09,862 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R917.
+2018-01-26 17:09:09,923 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R903.
+2018-01-26 17:09:09,993 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R903.
+2018-01-26 17:09:10,081 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R481.
+2018-01-26 17:09:10,144 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R481.
+2018-01-26 17:09:10,200 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R468.
+2018-01-26 17:09:10,264 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R468.
+2018-01-26 17:09:10,344 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R508.
+2018-01-26 17:09:10,479 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R508.
+2018-01-26 17:09:10,581 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R622.
+2018-01-26 17:09:10,669 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R622.
+2018-01-26 17:09:10,777 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R990.
+2018-01-26 17:09:10,881 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R990.
+2018-01-26 17:09:11,069 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R966.
+2018-01-26 17:09:11,134 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R966.
+2018-01-26 17:09:11,225 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R956.
+2018-01-26 17:09:11,288 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R956.
+2018-01-26 17:09:11,357 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R918.
+2018-01-26 17:09:11,424 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R918.
+2018-01-26 17:09:11,505 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R531.
+2018-01-26 17:09:11,580 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R531.
+2018-01-26 17:09:11,648 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R911.
+2018-01-26 17:09:11,713 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R911.
+2018-01-26 17:09:11,789 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R889.
+2018-01-26 17:09:11,879 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R889.
+2018-01-26 17:09:11,947 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R554.
+2018-01-26 17:09:12,009 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R554.
+2018-01-26 17:09:12,081 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R879.
+2018-01-26 17:09:12,167 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R879.
+2018-01-26 17:09:12,244 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R924.
+2018-01-26 17:09:12,373 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R924.
+2018-01-26 17:09:12,478 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R591.
+2018-01-26 17:09:12,608 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R591.
+2018-01-26 17:09:12,701 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R984.
+2018-01-26 17:09:12,763 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R984.
+2018-01-26 17:09:12,846 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R858.
+2018-01-26 17:09:12,913 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R858.
+2018-01-26 17:09:12,981 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R892.
+2018-01-26 17:09:13,067 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R892.
+2018-01-26 17:09:13,125 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R523.
+2018-01-26 17:09:13,216 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R523.
+2018-01-26 17:09:13,279 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R922.
+2018-01-26 17:09:13,339 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R922.
+2018-01-26 17:09:13,417 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R577.
+2018-01-26 17:09:13,485 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R577.
+2018-01-26 17:09:13,554 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R664.
+2018-01-26 17:09:13,632 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R664.
+2018-01-26 17:09:13,750 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R907.
+2018-01-26 17:09:13,824 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R907.
+2018-01-26 17:09:13,893 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R960.
+2018-01-26 17:09:13,978 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R960.
+2018-01-26 17:09:14,048 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R643.
+2018-01-26 17:09:14,125 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R643.
+2018-01-26 17:09:14,189 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R976.
+2018-01-26 17:09:14,246 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R976.
+2018-01-26 17:09:14,334 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R506.
+2018-01-26 17:09:14,405 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R506.
+2018-01-26 17:09:14,481 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R552.
+2018-01-26 17:09:14,544 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R552.
+2018-01-26 17:09:14,614 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R496.
+2018-01-26 17:09:14,699 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R496.
+2018-01-26 17:09:14,761 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R616.
+2018-01-26 17:09:14,824 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R616.
+2018-01-26 17:09:14,953 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R926.
+2018-01-26 17:09:15,020 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R926.
+2018-01-26 17:09:15,096 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R916.
+2018-01-26 17:09:15,162 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R916.
+2018-01-26 17:09:15,217 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R698.
+2018-01-26 17:09:15,275 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R698.
+2018-01-26 17:09:15,338 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R979.
+2018-01-26 17:09:15,421 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R979.
+2018-01-26 17:09:15,480 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R898.
+2018-01-26 17:09:15,546 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R898.
+2018-01-26 17:09:15,615 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R961.
+2018-01-26 17:09:15,680 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R961.
+2018-01-26 17:09:15,736 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R949.
+2018-01-26 17:09:15,796 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R949.
+2018-01-26 17:09:15,867 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R585.
+2018-01-26 17:09:15,932 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R585.
+2018-01-26 17:09:16,008 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R845.
+2018-01-26 17:09:16,126 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R845.
+2018-01-26 17:09:16,200 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R659.
+2018-01-26 17:09:16,276 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R659.
+2018-01-26 17:09:16,358 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R638.
+2018-01-26 17:09:16,427 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R638.
+2018-01-26 17:09:16,503 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R545.
+2018-01-26 17:09:16,571 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R545.
+2018-01-26 17:09:16,646 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R562.
+2018-01-26 17:09:16,865 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R562.
+2018-01-26 17:09:16,965 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R623.
+2018-01-26 17:09:17,065 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R623.
+2018-01-26 17:09:17,128 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R945.
+2018-01-26 17:09:17,213 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R945.
+2018-01-26 17:09:17,298 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R495.
+2018-01-26 17:09:17,366 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R495.
+2018-01-26 17:09:17,426 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R498.
+2018-01-26 17:09:17,490 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R498.
+2018-01-26 17:09:17,625 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R865.
+2018-01-26 17:09:17,683 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R865.
+2018-01-26 17:09:17,780 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R983.
+2018-01-26 17:09:17,833 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R983.
+2018-01-26 17:09:17,898 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R612.
+2018-01-26 17:09:17,970 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R612.
+2018-01-26 17:09:18,045 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R507.
+2018-01-26 17:09:18,121 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R507.
+2018-01-26 17:09:18,193 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R543.
+2018-01-26 17:09:18,275 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R543.
+2018-01-26 17:09:18,335 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R950.
+2018-01-26 17:09:18,393 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R950.
+2018-01-26 17:09:18,458 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R875.
+2018-01-26 17:09:18,531 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R875.
+2018-01-26 17:09:18,618 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R584.
+2018-01-26 17:09:18,726 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R584.
+2018-01-26 17:09:18,812 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R909.
+2018-01-26 17:09:18,957 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R909.
+2018-01-26 17:09:19,062 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R980.
+2018-01-26 17:09:19,125 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R980.
+2018-01-26 17:09:19,207 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R982.
+2018-01-26 17:09:19,267 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R982.
+2018-01-26 17:09:19,340 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R837.
+2018-01-26 17:09:19,482 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R837.
+2018-01-26 17:09:19,547 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R939.
+2018-01-26 17:09:19,609 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R939.
+2018-01-26 17:09:19,675 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R991.
+2018-01-26 17:09:19,744 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R991.
+2018-01-26 17:09:19,818 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R833.
+2018-01-26 17:09:19,883 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R833.
+2018-01-26 17:09:19,959 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R471.
+2018-01-26 17:09:20,026 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R471.
+2018-01-26 17:09:20,154 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R915.
+2018-01-26 17:09:20,255 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R915.
+2018-01-26 17:09:20,341 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R550.
+2018-01-26 17:09:20,540 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R550.
+2018-01-26 17:09:20,716 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R647.
+2018-01-26 17:09:20,857 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R647.
+2018-01-26 17:09:20,938 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R683.
+2018-01-26 17:09:21,013 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R683.
+2018-01-26 17:09:21,089 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R502.
+2018-01-26 17:09:21,254 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R502.
+2018-01-26 17:09:21,339 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R820.
+2018-01-26 17:09:21,409 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R820.
+2018-01-26 17:09:21,488 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R120.
+2018-01-26 17:09:21,591 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R120.
+2018-01-26 17:09:21,660 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R834.
+2018-01-26 17:09:21,724 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R834.
+2018-01-26 17:09:21,794 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R688.
+2018-01-26 17:09:22,032 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R688.
+2018-01-26 17:09:22,116 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R574.
+2018-01-26 17:09:22,195 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R574.
+2018-01-26 17:09:22,373 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R340.
+2018-01-26 17:09:22,448 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R340.
+2018-01-26 17:09:22,509 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R420.
+2018-01-26 17:09:22,609 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R420.
+2018-01-26 17:09:22,671 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R912.
+2018-01-26 17:09:22,730 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R912.
+2018-01-26 17:09:22,798 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R808.
+2018-01-26 17:09:22,864 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R808.
+2018-01-26 17:09:22,956 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R563.
+2018-01-26 17:09:23,032 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R563.
+2018-01-26 17:09:23,094 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R857.
+2018-01-26 17:09:23,153 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R857.
+2018-01-26 17:09:23,217 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R947.
+2018-01-26 17:09:23,294 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R947.
+2018-01-26 17:09:23,408 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R639.
+2018-01-26 17:09:23,468 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R639.
+2018-01-26 17:09:23,541 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R891.
+2018-01-26 17:09:23,659 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R891.
+2018-01-26 17:09:23,717 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R484.
+2018-01-26 17:09:23,780 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R484.
+2018-01-26 17:09:23,849 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R989.
+2018-01-26 17:09:24,070 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R989.
+2018-01-26 17:09:24,128 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R878.
+2018-01-26 17:09:24,350 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R878.
+2018-01-26 17:09:24,431 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R627.
+2018-01-26 17:09:24,496 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R627.
+2018-01-26 17:09:24,709 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R952.
+2018-01-26 17:09:24,778 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R952.
+2018-01-26 17:09:25,095 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R821.
+2018-01-26 17:09:25,154 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R821.
+2018-01-26 17:09:25,221 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R480.
+2018-01-26 17:09:25,299 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R480.
+2018-01-26 17:09:25,355 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R090.
+2018-01-26 17:09:25,416 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R090.
+2018-01-26 17:09:25,499 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R370.
+2018-01-26 17:09:25,631 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R370.
+2018-01-26 17:09:25,696 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R592.
+2018-01-26 17:09:25,765 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R592.
+2018-01-26 17:09:25,844 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R620.
+2018-01-26 17:09:25,916 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R620.
+2018-01-26 17:09:25,987 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R824.
+2018-01-26 17:09:26,077 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R824.
+2018-01-26 17:09:26,164 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R678.
+2018-01-26 17:09:26,252 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R678.
+2018-01-26 17:09:26,332 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R300.
+2018-01-26 17:09:26,397 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R300.
+2018-01-26 17:09:26,463 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R560.
+2018-01-26 17:09:26,534 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R560.
+2018-01-26 17:09:26,759 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R862.
+2018-01-26 17:09:26,834 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R862.
+2018-01-26 17:09:26,910 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R618.
+2018-01-26 17:09:26,964 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R618.
+2018-01-26 17:09:27,082 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R801.
+2018-01-26 17:09:27,161 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R801.
+2018-01-26 17:09:27,228 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R290.
+2018-01-26 17:09:27,314 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R290.
+2018-01-26 17:09:27,401 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R670.
+2018-01-26 17:09:27,480 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R670.
+2018-01-26 17:09:27,548 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R526.
+2018-01-26 17:09:27,634 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R526.
+2018-01-26 17:09:27,699 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R578.
+2018-01-26 17:09:27,769 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R578.
+2018-01-26 17:09:27,830 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R140.
+2018-01-26 17:09:27,913 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R140.
+2018-01-26 17:09:27,975 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R494.
+2018-01-26 17:09:28,035 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R494.
+2018-01-26 17:09:28,098 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R474.
+2018-01-26 17:09:28,162 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R474.
+2018-01-26 17:09:28,218 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R190.
+2018-01-26 17:09:28,331 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R190.
+2018-01-26 17:09:28,391 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R565.
+2018-01-26 17:09:28,456 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R565.
+2018-01-26 17:09:28,554 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R588.
+2018-01-26 17:09:28,635 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R588.
+2018-01-26 17:09:28,701 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R861.
+2018-01-26 17:09:28,781 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R861.
+2018-01-26 17:09:28,847 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R456.
+2018-01-26 17:09:28,935 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R456.
+2018-01-26 17:09:29,002 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R923.
+2018-01-26 17:09:29,073 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R923.
+2018-01-26 17:09:29,143 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R674.
+2018-01-26 17:09:29,208 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R674.
+2018-01-26 17:09:29,283 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R811.
+2018-01-26 17:09:29,362 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R811.
+2018-01-26 17:09:29,449 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R842.
+2018-01-26 17:09:29,518 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R842.
+2018-01-26 17:09:29,654 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R540.
+2018-01-26 17:09:29,716 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R540.
+2018-01-26 17:09:29,784 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R626.
+2018-01-26 17:09:29,872 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R626.
+2018-01-26 17:09:29,944 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R466.
+2018-01-26 17:09:30,009 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R466.
+2018-01-26 17:09:30,066 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R488.
+2018-01-26 17:09:30,127 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R488.
+2018-01-26 17:09:30,187 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R816.
+2018-01-26 17:09:30,252 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R816.
+2018-01-26 17:09:30,336 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R599.
+2018-01-26 17:09:30,393 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R599.
+2018-01-26 17:09:30,456 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R380.
+2018-01-26 17:09:30,530 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R380.
+2018-01-26 17:09:30,597 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R985.
+2018-01-26 17:09:30,665 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R985.
+2018-01-26 17:09:30,739 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R908.
+2018-01-26 17:09:30,856 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R908.
+2018-01-26 17:09:30,929 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R886.
+2018-01-26 17:09:30,994 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R886.
+2018-01-26 17:09:31,095 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R953.
+2018-01-26 17:09:31,170 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R953.
+2018-01-26 17:09:31,249 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R951.
+2018-01-26 17:09:31,322 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R951.
+2018-01-26 17:09:31,392 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R463.
+2018-01-26 17:09:31,459 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R463.
+2018-01-26 17:09:31,624 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R697.
+2018-01-26 17:09:31,689 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R697.
+2018-01-26 17:09:31,758 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R440.
+2018-01-26 17:09:31,843 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R440.
+2018-01-26 17:09:31,925 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R611.
+2018-01-26 17:09:32,000 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R611.
+2018-01-26 17:09:32,068 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R656.
+2018-01-26 17:09:32,202 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R656.
+2018-01-26 17:09:32,272 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R489.
+2018-01-26 17:09:32,340 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R489.
+2018-01-26 17:09:32,398 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R583.
+2018-01-26 17:09:32,470 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R583.
+2018-01-26 17:09:32,533 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R868.
+2018-01-26 17:09:32,607 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R868.
+2018-01-26 17:09:32,673 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R557.
+2018-01-26 17:09:32,738 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R557.
+2018-01-26 17:09:32,814 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R681.
+2018-01-26 17:09:32,901 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R681.
+2018-01-26 17:09:32,978 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R977.
+2018-01-26 17:09:33,054 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R977.
+2018-01-26 17:09:33,124 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R464.
+2018-01-26 17:09:33,198 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R464.
+2018-01-26 17:09:33,267 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R613.
+2018-01-26 17:09:33,399 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R613.
+2018-01-26 17:09:33,469 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R863.
+2018-01-26 17:09:33,556 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R863.
+2018-01-26 17:09:33,632 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R677.
+2018-01-26 17:09:33,700 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R677.
+2018-01-26 17:09:33,774 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R491.
+2018-01-26 17:09:33,872 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R491.
+2018-01-26 17:09:33,947 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R814.
+2018-01-26 17:09:34,006 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R814.
+2018-01-26 17:09:34,074 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R897.
+2018-01-26 17:09:34,145 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R897.
+2018-01-26 17:09:34,208 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R633.
+2018-01-26 17:09:34,272 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R633.
+2018-01-26 17:09:34,357 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R536.
+2018-01-26 17:09:34,423 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R536.
+2018-01-26 17:09:34,496 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R525.
+2018-01-26 17:09:34,569 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R525.
+2018-01-26 17:09:34,691 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R964.
+2018-01-26 17:09:34,750 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R964.
+2018-01-26 17:09:34,821 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R818.
+2018-01-26 17:09:34,891 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R818.
+2018-01-26 17:09:34,969 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R516.
+2018-01-26 17:09:35,026 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R516.
+2018-01-26 17:09:35,118 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R995.
+2018-01-26 17:09:35,183 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R995.
+2018-01-26 17:09:35,257 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R555.
+2018-01-26 17:09:35,332 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R555.
+2018-01-26 17:09:35,406 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R695.
+2018-01-26 17:09:35,479 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R695.
+2018-01-26 17:09:35,557 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R846.
+2018-01-26 17:09:35,638 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R846.
+2018-01-26 17:09:35,716 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R906.
+2018-01-26 17:09:35,788 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R906.
+2018-01-26 17:09:35,865 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R475.
+2018-01-26 17:09:36,009 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R475.
+2018-01-26 17:09:36,121 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R828.
+2018-01-26 17:09:36,195 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R828.
+2018-01-26 17:09:36,263 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R604.
+2018-01-26 17:09:36,328 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R604.
+2018-01-26 17:09:36,435 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R978.
+2018-01-26 17:09:36,510 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R978.
+2018-01-26 17:09:36,631 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R544.
+2018-01-26 17:09:36,722 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R544.
+2018-01-26 17:09:36,795 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R881.
+2018-01-26 17:09:36,879 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R881.
+2018-01-26 17:09:36,948 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R902.
+2018-01-26 17:09:37,031 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R902.
+2018-01-26 17:09:37,107 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R684.
+2018-01-26 17:09:37,178 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R684.
+2018-01-26 17:09:37,410 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R931.
+2018-01-26 17:09:37,563 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R931.
+2018-01-26 17:09:37,646 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R883.
+2018-01-26 17:09:37,713 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R883.
+2018-01-26 17:09:37,801 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R992.
+2018-01-26 17:09:37,873 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R992.
+2018-01-26 17:09:38,004 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R859.
+2018-01-26 17:09:38,075 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R859.
+2018-01-26 17:09:38,143 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R634.
+2018-01-26 17:09:38,229 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R634.
+2018-01-26 17:09:38,328 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R955.
+2018-01-26 17:09:38,403 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R955.
+2018-01-26 17:09:38,484 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R665.
+2018-01-26 17:09:38,584 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R665.
+2018-01-26 17:09:38,676 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R844.
+2018-01-26 17:09:38,774 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R844.
+2018-01-26 17:09:38,835 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R576.
+2018-01-26 17:09:38,896 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R576.
+2018-01-26 17:09:39,044 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R450.
+2018-01-26 17:09:39,117 - INFO - Start parse http://branch.sinyi.com.tw/info.php/R450.

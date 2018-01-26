@@ -58,9 +58,8 @@ class StoreParser(object):
         addr = self.get_address()
         target = split_address(addr)
 
-        city = target['city'] if 'city' in target else ""
-        area = target['area'] if 'area' in target else ""
-
+        city = target['city'] if 'city' in target else ''
+        area = target['area'] if 'area' in target else ''
         return city, area
 
 
