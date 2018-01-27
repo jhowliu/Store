@@ -144,7 +144,7 @@ class SinYiParser(StoreParser):
     	WEB_STORED['District'] = area
     	WEB_STORED['City'] = city
 
-        return WEB_STORED.copy()
+        return dict(WEB_STORED)
 
     def fill_out_webagent(self, soup, ix):
         # WEB_AGENT

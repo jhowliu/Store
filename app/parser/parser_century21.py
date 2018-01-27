@@ -143,7 +143,7 @@ class CenturyParser(StoreParser):
     	WEB_STORED['District'] = area
     	WEB_STORED['City'] = city
 
-        return WEB_STORED.copy()
+        return dict(WEB_STORED)
 
 
     def fill_out_webagent(self, soup, ix):
@@ -161,4 +161,4 @@ class CenturyParser(StoreParser):
     	WEB_AGENT['District'] = WEB_STORED['District']
     	WEB_AGENT['City'] = WEB_STORED['City']
 
-        return WEB_AGENT.copy()
+        return dict(WEB_AGENT)
